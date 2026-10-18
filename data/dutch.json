@@ -1,0 +1,1069 @@
+{
+  "ko": "네덜란드어",
+  "native": "Nederlands",
+  "locale": "nl-NL",
+  "accent": "#a6502c",
+  "alphabet": "abcdefghijklmnopqrstuvwxyz",
+  "special": "",
+  "country": "네덜란드",
+  "intro": "알파벳에서 운하 옆 카페의 첫 대화까지.",
+  "sources": [
+    {
+      "label": "네덜란드어 연합 Taalunie",
+      "url": "https://taalunie.org/"
+    },
+    {
+      "label": "네덜란드어 철자 사전",
+      "url": "https://woordenlijst.org/"
+    }
+  ],
+  "key": "dutch",
+  "notes": [
+    {
+      "title": "ij는 i와 j를 함께",
+      "text": "ij는 두 글자로 적는 모음 결합입니다. 단어 첫머리를 대문자로 적을 때는 두 글자를 함께 IJ로 씁니다. y로 바꾸지 않습니다.",
+      "example": "ijs → IJs / IJsselmeer"
+    },
+    {
+      "title": "길고 짧은 모음",
+      "text": "단모음·장모음과 음절의 열림·닫힘이 철자에 영향을 줍니다. aa·ee·oo·uu와 단일 모음을 단어째 비교해 보세요.",
+      "example": "man / maan · bom / boom"
+    },
+    {
+      "title": "u와 je",
+      "text": "u는 공손한 상대 호칭이고, je·jij는 친근한 호칭입니다. 처음 만난 상대에게 공손하게 부탁할 때 Kunt u…?를 쓸 수 있습니다.",
+      "example": "Kunt u dat herhalen?"
+    },
+    {
+      "title": "평서문의 동사 위치",
+      "text": "기본 평서문에서는 활용된 동사가 두 번째 문장 성분 자리에 옵니다. 시간 표현을 앞에 두면 주어가 동사 뒤로 갑니다.",
+      "example": "Ik leer Nederlands. / Vandaag leer ik Nederlands."
+    },
+    {
+      "title": "de와 het를 같이 외워요",
+      "text": "명사는 de 또는 het와 묶어 외우면 좋습니다. 복수 명사의 정관사는 de입니다.",
+      "example": "de fiets · het huis · de huizen"
+    },
+    {
+      "title": "주문은 graag와 함께",
+      "text": "Ik wil graag…로 원하는 것을 말하고 alstublieft로 공손하게 덧붙일 수 있습니다.",
+      "example": "Ik wil graag een koffie."
+    }
+  ],
+  "phrases": [
+    {
+      "id": "dutch-p001",
+      "topic": "greetings",
+      "text": "Hallo!",
+      "meaning": "안녕하세요!",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p002",
+      "topic": "greetings",
+      "text": "Goedemorgen.",
+      "meaning": "좋은 아침이에요.",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p003",
+      "topic": "greetings",
+      "text": "Goedemiddag.",
+      "meaning": "안녕하세요. (오후 인사)",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p004",
+      "topic": "greetings",
+      "text": "Goedenavond.",
+      "meaning": "안녕하세요. (저녁 인사)",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p005",
+      "topic": "greetings",
+      "text": "Tot ziens!",
+      "meaning": "또 만나요!",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p006",
+      "topic": "greetings",
+      "text": "Dank u wel.",
+      "meaning": "감사합니다. (공손하게)",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p007",
+      "topic": "greetings",
+      "text": "Dank je wel.",
+      "meaning": "고마워요. (친근하게)",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p008",
+      "topic": "greetings",
+      "text": "Graag gedaan.",
+      "meaning": "천만에요.",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p009",
+      "topic": "greetings",
+      "text": "Sorry.",
+      "meaning": "미안해요.",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p010",
+      "topic": "greetings",
+      "text": "Geen probleem.",
+      "meaning": "괜찮아요.",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p011",
+      "topic": "introductions",
+      "text": "Hoe heet je?",
+      "meaning": "이름이 뭐예요?",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p012",
+      "topic": "introductions",
+      "text": "Ik heet Min.",
+      "meaning": "제 이름은 민이에요.",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p013",
+      "topic": "introductions",
+      "text": "Aangenaam.",
+      "meaning": "만나서 반가워요.",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p014",
+      "topic": "introductions",
+      "text": "Waar kom je vandaan?",
+      "meaning": "어디에서 왔어요?",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p015",
+      "topic": "introductions",
+      "text": "Ik kom uit Zuid-Korea.",
+      "meaning": "저는 한국에서 왔어요.",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p016",
+      "topic": "introductions",
+      "text": "Ik leer Nederlands.",
+      "meaning": "저는 네덜란드어를 배우고 있어요.",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p017",
+      "topic": "introductions",
+      "text": "Ik spreek een beetje Nederlands.",
+      "meaning": "네덜란드어를 조금 해요.",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p018",
+      "topic": "introductions",
+      "text": "Spreekt u Engels?",
+      "meaning": "영어 하세요? (공손하게)",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p019",
+      "topic": "introductions",
+      "text": "Hoe gaat het?",
+      "meaning": "어떻게 지내요?",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p020",
+      "topic": "introductions",
+      "text": "Goed, dank je.",
+      "meaning": "잘 지내요. 고마워요.",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p021",
+      "topic": "essentials",
+      "text": "Ja.",
+      "meaning": "네.",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p022",
+      "topic": "essentials",
+      "text": "Nee.",
+      "meaning": "아니요.",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p023",
+      "topic": "essentials",
+      "text": "Alstublieft.",
+      "meaning": "부탁합니다. / 여기 있습니다. (공손하게)",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p024",
+      "topic": "essentials",
+      "text": "Ik begrijp het niet.",
+      "meaning": "이해하지 못했어요.",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p025",
+      "topic": "essentials",
+      "text": "Kunt u dat herhalen?",
+      "meaning": "다시 말씀해 주시겠어요?",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p026",
+      "topic": "essentials",
+      "text": "Kunt u langzamer spreken?",
+      "meaning": "조금 천천히 말씀해 주시겠어요?",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p027",
+      "topic": "essentials",
+      "text": "Wat betekent dit?",
+      "meaning": "이것은 무슨 뜻이에요?",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p028",
+      "topic": "essentials",
+      "text": "Hoe zeg je dit in het Nederlands?",
+      "meaning": "이것을 네덜란드어로 어떻게 말해요?",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p029",
+      "topic": "food",
+      "text": "Ik wil graag een koffie.",
+      "meaning": "커피 한 잔 주세요.",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p030",
+      "topic": "food",
+      "text": "Een thee, alstublieft.",
+      "meaning": "차 한 잔 주세요.",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p031",
+      "topic": "food",
+      "text": "Mag ik de menukaart?",
+      "meaning": "메뉴판을 받을 수 있을까요?",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p032",
+      "topic": "food",
+      "text": "Ik ben vegetariër.",
+      "meaning": "저는 채식주의자예요.",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p033",
+      "topic": "food",
+      "text": "Zonder melk, alstublieft.",
+      "meaning": "우유는 빼 주세요.",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p034",
+      "topic": "food",
+      "text": "Mag ik een glas water?",
+      "meaning": "물 한 잔 주시겠어요?",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p035",
+      "topic": "food",
+      "text": "Het is lekker.",
+      "meaning": "맛있어요.",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p036",
+      "topic": "food",
+      "text": "Mag ik de rekening?",
+      "meaning": "계산서 주세요.",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p037",
+      "topic": "transport",
+      "text": "Waar is het station?",
+      "meaning": "역이 어디예요?",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p038",
+      "topic": "transport",
+      "text": "Een kaartje naar Amsterdam, alstublieft.",
+      "meaning": "암스테르담행 표 한 장 주세요.",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p039",
+      "topic": "transport",
+      "text": "Hoe laat vertrekt de trein?",
+      "meaning": "기차는 몇 시에 출발해요?",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p040",
+      "topic": "transport",
+      "text": "Op welk spoor?",
+      "meaning": "몇 번 승강장인가요?",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p041",
+      "topic": "transport",
+      "text": "Gaat deze bus naar het centrum?",
+      "meaning": "이 버스는 시내로 가나요?",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p042",
+      "topic": "transport",
+      "text": "Ik wil hier uitstappen.",
+      "meaning": "여기서 내리고 싶어요.",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p043",
+      "topic": "transport",
+      "text": "Hoe lang duurt het?",
+      "meaning": "얼마나 걸려요?",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p044",
+      "topic": "shopping",
+      "text": "Hoeveel kost dit?",
+      "meaning": "이것은 얼마예요?",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p045",
+      "topic": "shopping",
+      "text": "Kan ik met een kaart betalen?",
+      "meaning": "카드로 계산할 수 있나요?",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p046",
+      "topic": "shopping",
+      "text": "Heeft u een kleinere maat?",
+      "meaning": "더 작은 사이즈가 있나요?",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p047",
+      "topic": "shopping",
+      "text": "Ik kijk alleen even.",
+      "meaning": "잠깐 구경만 할게요.",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p048",
+      "topic": "shopping",
+      "text": "Ik neem deze.",
+      "meaning": "이것으로 할게요.",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p049",
+      "topic": "shopping",
+      "text": "Mag ik een bonnetje?",
+      "meaning": "영수증 주시겠어요?",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p050",
+      "topic": "directions",
+      "text": "Waar is het toilet?",
+      "meaning": "화장실이 어디예요?",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p051",
+      "topic": "directions",
+      "text": "Is het ver?",
+      "meaning": "먼가요?",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p052",
+      "topic": "directions",
+      "text": "Ga rechtdoor.",
+      "meaning": "곧장 가세요.",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p053",
+      "topic": "directions",
+      "text": "Sla linksaf.",
+      "meaning": "왼쪽으로 도세요.",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p054",
+      "topic": "directions",
+      "text": "Sla rechtsaf.",
+      "meaning": "오른쪽으로 도세요.",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p055",
+      "topic": "directions",
+      "text": "Kunt u het op de kaart aanwijzen?",
+      "meaning": "지도에서 가리켜 주시겠어요?",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p056",
+      "topic": "stay",
+      "text": "Ik heb een reservering.",
+      "meaning": "예약했어요.",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p057",
+      "topic": "stay",
+      "text": "Ik wil graag inchecken.",
+      "meaning": "체크인하고 싶어요.",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p058",
+      "topic": "stay",
+      "text": "Wat is het wifiwachtwoord?",
+      "meaning": "와이파이 비밀번호가 뭔가요?",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p059",
+      "topic": "stay",
+      "text": "Hoe laat is het ontbijt?",
+      "meaning": "아침 식사는 몇 시예요?",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p060",
+      "topic": "stay",
+      "text": "Ik blijf twee nachten.",
+      "meaning": "이틀 밤 머물 거예요.",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p061",
+      "topic": "help",
+      "text": "Ik heb hulp nodig.",
+      "meaning": "도움이 필요해요.",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p062",
+      "topic": "help",
+      "text": "Ik ben verdwaald.",
+      "meaning": "길을 잃었어요.",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p063",
+      "topic": "help",
+      "text": "Ik voel me niet goed.",
+      "meaning": "몸이 좋지 않아요.",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p064",
+      "topic": "help",
+      "text": "Waar is een apotheek?",
+      "meaning": "약국이 어디예요?",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p065",
+      "topic": "help",
+      "text": "Bel een ambulance, alstublieft.",
+      "meaning": "구급차를 불러 주세요.",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p066",
+      "topic": "time",
+      "text": "Hoe laat is het?",
+      "meaning": "몇 시예요?",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p067",
+      "topic": "time",
+      "text": "Vandaag heb ik tijd.",
+      "meaning": "오늘은 시간이 있어요.",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p068",
+      "topic": "time",
+      "text": "Tot morgen!",
+      "meaning": "내일 봐요!",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p069",
+      "topic": "time",
+      "text": "Het regent.",
+      "meaning": "비가 와요.",
+      "reading": ""
+    },
+    {
+      "id": "dutch-p070",
+      "topic": "time",
+      "text": "Het is koud.",
+      "meaning": "추워요.",
+      "reading": ""
+    }
+  ],
+  "words": [
+    {
+      "id": "dutch-w001",
+      "topic": "words",
+      "text": "water",
+      "meaning": "물",
+      "reading": ""
+    },
+    {
+      "id": "dutch-w002",
+      "topic": "words",
+      "text": "thee",
+      "meaning": "차",
+      "reading": ""
+    },
+    {
+      "id": "dutch-w003",
+      "topic": "words",
+      "text": "koffie",
+      "meaning": "커피",
+      "reading": ""
+    },
+    {
+      "id": "dutch-w004",
+      "topic": "words",
+      "text": "melk",
+      "meaning": "우유",
+      "reading": ""
+    },
+    {
+      "id": "dutch-w005",
+      "topic": "words",
+      "text": "brood",
+      "meaning": "빵",
+      "reading": ""
+    },
+    {
+      "id": "dutch-w006",
+      "topic": "words",
+      "text": "kaas",
+      "meaning": "치즈",
+      "reading": ""
+    },
+    {
+      "id": "dutch-w007",
+      "topic": "words",
+      "text": "appel",
+      "meaning": "사과",
+      "reading": ""
+    },
+    {
+      "id": "dutch-w008",
+      "topic": "words",
+      "text": "rijst",
+      "meaning": "쌀 / 밥",
+      "reading": ""
+    },
+    {
+      "id": "dutch-w009",
+      "topic": "words",
+      "text": "huis",
+      "meaning": "집",
+      "reading": ""
+    },
+    {
+      "id": "dutch-w010",
+      "topic": "words",
+      "text": "school",
+      "meaning": "학교",
+      "reading": ""
+    },
+    {
+      "id": "dutch-w011",
+      "topic": "words",
+      "text": "boek",
+      "meaning": "책",
+      "reading": ""
+    },
+    {
+      "id": "dutch-w012",
+      "topic": "words",
+      "text": "pen",
+      "meaning": "펜",
+      "reading": ""
+    },
+    {
+      "id": "dutch-w013",
+      "topic": "words",
+      "text": "fiets",
+      "meaning": "자전거",
+      "reading": ""
+    },
+    {
+      "id": "dutch-w014",
+      "topic": "words",
+      "text": "trein",
+      "meaning": "기차",
+      "reading": ""
+    },
+    {
+      "id": "dutch-w015",
+      "topic": "words",
+      "text": "bus",
+      "meaning": "버스",
+      "reading": ""
+    },
+    {
+      "id": "dutch-w016",
+      "topic": "words",
+      "text": "station",
+      "meaning": "역",
+      "reading": ""
+    },
+    {
+      "id": "dutch-w017",
+      "topic": "words",
+      "text": "vriend",
+      "meaning": "친구 (남성)",
+      "reading": ""
+    },
+    {
+      "id": "dutch-w018",
+      "topic": "words",
+      "text": "vriendin",
+      "meaning": "친구 (여성)",
+      "reading": ""
+    },
+    {
+      "id": "dutch-w019",
+      "topic": "words",
+      "text": "familie",
+      "meaning": "가족",
+      "reading": ""
+    },
+    {
+      "id": "dutch-w020",
+      "topic": "words",
+      "text": "kind",
+      "meaning": "아이",
+      "reading": ""
+    },
+    {
+      "id": "dutch-w021",
+      "topic": "words",
+      "text": "dag",
+      "meaning": "날 / 낮",
+      "reading": ""
+    },
+    {
+      "id": "dutch-w022",
+      "topic": "words",
+      "text": "nacht",
+      "meaning": "밤",
+      "reading": ""
+    },
+    {
+      "id": "dutch-w023",
+      "topic": "words",
+      "text": "vandaag",
+      "meaning": "오늘",
+      "reading": ""
+    },
+    {
+      "id": "dutch-w024",
+      "topic": "words",
+      "text": "morgen",
+      "meaning": "내일",
+      "reading": ""
+    },
+    {
+      "id": "dutch-w025",
+      "topic": "words",
+      "text": "links",
+      "meaning": "왼쪽",
+      "reading": ""
+    },
+    {
+      "id": "dutch-w026",
+      "topic": "words",
+      "text": "rechts",
+      "meaning": "오른쪽",
+      "reading": ""
+    },
+    {
+      "id": "dutch-w027",
+      "topic": "words",
+      "text": "groot",
+      "meaning": "큰",
+      "reading": ""
+    },
+    {
+      "id": "dutch-w028",
+      "topic": "words",
+      "text": "klein",
+      "meaning": "작은",
+      "reading": ""
+    },
+    {
+      "id": "dutch-w029",
+      "topic": "words",
+      "text": "goed",
+      "meaning": "좋은",
+      "reading": ""
+    },
+    {
+      "id": "dutch-w030",
+      "topic": "words",
+      "text": "mooi",
+      "meaning": "아름다운",
+      "reading": ""
+    },
+    {
+      "id": "dutch-w031",
+      "topic": "words",
+      "text": "een",
+      "meaning": "하나",
+      "reading": ""
+    },
+    {
+      "id": "dutch-w032",
+      "topic": "words",
+      "text": "twee",
+      "meaning": "둘",
+      "reading": ""
+    },
+    {
+      "id": "dutch-w033",
+      "topic": "words",
+      "text": "drie",
+      "meaning": "셋",
+      "reading": ""
+    },
+    {
+      "id": "dutch-w034",
+      "topic": "words",
+      "text": "vier",
+      "meaning": "넷",
+      "reading": ""
+    },
+    {
+      "id": "dutch-w035",
+      "topic": "words",
+      "text": "vijf",
+      "meaning": "다섯",
+      "reading": ""
+    },
+    {
+      "id": "dutch-w036",
+      "topic": "words",
+      "text": "zes",
+      "meaning": "여섯",
+      "reading": ""
+    },
+    {
+      "id": "dutch-w037",
+      "topic": "words",
+      "text": "zeven",
+      "meaning": "일곱",
+      "reading": ""
+    },
+    {
+      "id": "dutch-w038",
+      "topic": "words",
+      "text": "acht",
+      "meaning": "여덟",
+      "reading": ""
+    },
+    {
+      "id": "dutch-w039",
+      "topic": "words",
+      "text": "negen",
+      "meaning": "아홉",
+      "reading": ""
+    },
+    {
+      "id": "dutch-w040",
+      "topic": "words",
+      "text": "tien",
+      "meaning": "열",
+      "reading": ""
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "dutch-d01",
+      "title": "첫 만남",
+      "lines": [
+        {
+          "who": "A",
+          "text": "Hallo!",
+          "meaning": "안녕하세요!",
+          "reading": ""
+        },
+        {
+          "who": "B",
+          "text": "Hallo! Hoe heet je?",
+          "meaning": "안녕하세요! 이름이 뭐예요?",
+          "reading": ""
+        },
+        {
+          "who": "A",
+          "text": "Ik heet Min. En jij?",
+          "meaning": "저는 민이에요. 당신은요?",
+          "reading": ""
+        },
+        {
+          "who": "B",
+          "text": "Ik heet Emma. Aangenaam.",
+          "meaning": "저는 엠마예요. 반가워요.",
+          "reading": ""
+        }
+      ]
+    },
+    {
+      "id": "dutch-d02",
+      "title": "카페 주문",
+      "lines": [
+        {
+          "who": "A",
+          "text": "Goedemorgen. Wat wilt u drinken?",
+          "meaning": "안녕하세요. 무엇을 마시겠어요?",
+          "reading": ""
+        },
+        {
+          "who": "B",
+          "text": "Een koffie, alstublieft.",
+          "meaning": "커피 한 잔 주세요.",
+          "reading": ""
+        },
+        {
+          "who": "A",
+          "text": "Met melk?",
+          "meaning": "우유를 넣을까요?",
+          "reading": ""
+        },
+        {
+          "who": "B",
+          "text": "Nee, zonder melk. Dank u wel.",
+          "meaning": "아니요. 우유는 빼 주세요. 감사합니다.",
+          "reading": ""
+        }
+      ]
+    },
+    {
+      "id": "dutch-d03",
+      "title": "길 묻기",
+      "lines": [
+        {
+          "who": "A",
+          "text": "Sorry, waar is het station?",
+          "meaning": "실례합니다. 역이 어디예요?",
+          "reading": ""
+        },
+        {
+          "who": "B",
+          "text": "Ga rechtdoor en sla linksaf.",
+          "meaning": "곧장 가서 왼쪽으로 도세요.",
+          "reading": ""
+        },
+        {
+          "who": "A",
+          "text": "Is het ver?",
+          "meaning": "먼가요?",
+          "reading": ""
+        },
+        {
+          "who": "B",
+          "text": "Nee, ongeveer vijf minuten lopen.",
+          "meaning": "아니요. 걸어서 약 5분이에요.",
+          "reading": ""
+        }
+      ]
+    },
+    {
+      "id": "dutch-d04",
+      "title": "계산하기",
+      "lines": [
+        {
+          "who": "A",
+          "text": "Hoeveel kost dit?",
+          "meaning": "이것은 얼마예요?",
+          "reading": ""
+        },
+        {
+          "who": "B",
+          "text": "Vijf euro.",
+          "meaning": "5유로예요.",
+          "reading": ""
+        },
+        {
+          "who": "A",
+          "text": "Kan ik met een kaart betalen?",
+          "meaning": "카드로 계산할 수 있나요?",
+          "reading": ""
+        },
+        {
+          "who": "B",
+          "text": "Ja, natuurlijk.",
+          "meaning": "네, 물론이에요.",
+          "reading": ""
+        }
+      ]
+    },
+    {
+      "id": "dutch-d05",
+      "title": "기차 타기",
+      "lines": [
+        {
+          "who": "A",
+          "text": "Hoe laat vertrekt de trein?",
+          "meaning": "기차는 몇 시에 출발해요?",
+          "reading": ""
+        },
+        {
+          "who": "B",
+          "text": "Om tien uur.",
+          "meaning": "10시에요.",
+          "reading": ""
+        },
+        {
+          "who": "A",
+          "text": "Op welk spoor?",
+          "meaning": "몇 번 승강장인가요?",
+          "reading": ""
+        },
+        {
+          "who": "B",
+          "text": "Op spoor twee.",
+          "meaning": "2번 승강장이에요.",
+          "reading": ""
+        }
+      ]
+    },
+    {
+      "id": "dutch-d06",
+      "title": "체크인",
+      "lines": [
+        {
+          "who": "A",
+          "text": "Ik heb een reservering.",
+          "meaning": "예약했어요.",
+          "reading": ""
+        },
+        {
+          "who": "B",
+          "text": "Op welke naam?",
+          "meaning": "어떤 이름으로 예약하셨어요?",
+          "reading": ""
+        },
+        {
+          "who": "A",
+          "text": "Op naam van Min.",
+          "meaning": "민이라는 이름으로요.",
+          "reading": ""
+        },
+        {
+          "who": "B",
+          "text": "Welkom!",
+          "meaning": "환영합니다!",
+          "reading": ""
+        }
+      ]
+    },
+    {
+      "id": "dutch-d07",
+      "title": "도움 요청",
+      "lines": [
+        {
+          "who": "A",
+          "text": "Ik begrijp het niet.",
+          "meaning": "이해하지 못했어요.",
+          "reading": ""
+        },
+        {
+          "who": "B",
+          "text": "Zal ik het herhalen?",
+          "meaning": "다시 말해 드릴까요?",
+          "reading": ""
+        },
+        {
+          "who": "A",
+          "text": "Ja, graag. Langzamer, alstublieft.",
+          "meaning": "네, 부탁드려요. 조금 천천히요.",
+          "reading": ""
+        },
+        {
+          "who": "B",
+          "text": "Natuurlijk.",
+          "meaning": "물론이에요.",
+          "reading": ""
+        }
+      ]
+    },
+    {
+      "id": "dutch-d08",
+      "title": "내일 약속",
+      "lines": [
+        {
+          "who": "A",
+          "text": "Heb je morgen tijd?",
+          "meaning": "내일 시간 있어요?",
+          "reading": ""
+        },
+        {
+          "who": "B",
+          "text": "Ja, in de middag.",
+          "meaning": "네, 오후에요.",
+          "reading": ""
+        },
+        {
+          "who": "A",
+          "text": "Zullen we koffie drinken?",
+          "meaning": "커피 마실까요?",
+          "reading": ""
+        },
+        {
+          "who": "B",
+          "text": "Goed idee. Tot morgen!",
+          "meaning": "좋아요. 내일 봐요!",
+          "reading": ""
+        }
+      ]
+    }
+  ]
+}

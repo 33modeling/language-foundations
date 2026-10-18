@@ -1,0 +1,1069 @@
+{
+  "ko": "폴란드어",
+  "native": "Polski",
+  "locale": "pl-PL",
+  "accent": "#9b3c58",
+  "alphabet": "aąbcćdeęfghijklłmnńoóprsśtuwyzźż",
+  "special": "ąćęłńóśźżĄĆĘŁŃÓŚŹŻ",
+  "country": "폴란드",
+  "intro": "작은 부호까지 또박또박, 인사부터 자신 있게.",
+  "sources": [
+    {
+      "label": "폴란드어 학습·문법 polski.info",
+      "url": "https://polski.info/grammar/nouns?hl=pl"
+    },
+    {
+      "label": "폴란드어 문자 체계 · UNGEGN",
+      "url": "https://unstats.un.org/unsd/geoinfo/ungegn/docs/_data_ICAcourses/_pdf/selfstudy/s14/S14_merge_total.pdf"
+    }
+  ],
+  "key": "polish",
+  "notes": [
+    {
+      "title": "32개 글자",
+      "text": "폴란드어의 기본 알파벳은 32자입니다. q·v·x는 외래 이름이나 일부 외래어에서 보일 수 있지만 기본 32자에 포함하지 않습니다.",
+      "example": "ą ć ę ł ń ó ś ź ż"
+    },
+    {
+      "title": "부호도 글자의 일부",
+      "text": "ą와 a, ł와 l, ż와 ź는 서로 다른 글자입니다. 따라 쓰기와 받아쓰기에서 부호까지 확인합니다.",
+      "example": "l / ł · z / ź / ż"
+    },
+    {
+      "title": "자주 만나는 소리 결합",
+      "text": "sz·cz·rz·ch·dz·dź·dż는 자주 함께 읽는 결합입니다. ć·ś·ź·ń처럼 부드러운 자음과 구별해 단어째 들으세요.",
+      "example": "szkoła · cześć · dzień"
+    },
+    {
+      "title": "pan과 pani",
+      "text": "남성에게 공손하게 말할 때 pan, 여성에게 pani를 씁니다. 동사 형태도 친근한 ty와 다르므로 문장째 익힙니다.",
+      "example": "Czy mówi pan po angielsku? / Czy mówi pani po angielsku?"
+    },
+    {
+      "title": "명사의 형태가 바뀌어요",
+      "text": "명사는 문장에서 하는 역할에 따라 형태가 달라집니다. 기본형 kawa가 주문 문장 Poproszę kawę에서는 kawę가 됩니다.",
+      "example": "kawa → Poproszę kawę."
+    },
+    {
+      "title": "자기소개 세 문장",
+      "text": "이름은 Mam na imię…, 출신은 Jestem z…, 학습 중인 언어는 Uczę się…로 시작해 보세요.",
+      "example": "Mam na imię Min. / Uczę się polskiego."
+    }
+  ],
+  "phrases": [
+    {
+      "id": "polish-p001",
+      "topic": "greetings",
+      "text": "Dzień dobry.",
+      "meaning": "안녕하세요. (낮 인사)",
+      "reading": ""
+    },
+    {
+      "id": "polish-p002",
+      "topic": "greetings",
+      "text": "Dobry wieczór.",
+      "meaning": "안녕하세요. (저녁 인사)",
+      "reading": ""
+    },
+    {
+      "id": "polish-p003",
+      "topic": "greetings",
+      "text": "Cześć!",
+      "meaning": "안녕! (친근하게)",
+      "reading": ""
+    },
+    {
+      "id": "polish-p004",
+      "topic": "greetings",
+      "text": "Do widzenia.",
+      "meaning": "안녕히 가세요. / 안녕히 계세요.",
+      "reading": ""
+    },
+    {
+      "id": "polish-p005",
+      "topic": "greetings",
+      "text": "Do zobaczenia!",
+      "meaning": "또 만나요!",
+      "reading": ""
+    },
+    {
+      "id": "polish-p006",
+      "topic": "greetings",
+      "text": "Dziękuję.",
+      "meaning": "감사합니다.",
+      "reading": ""
+    },
+    {
+      "id": "polish-p007",
+      "topic": "greetings",
+      "text": "Proszę.",
+      "meaning": "부탁합니다. / 여기 있습니다.",
+      "reading": ""
+    },
+    {
+      "id": "polish-p008",
+      "topic": "greetings",
+      "text": "Nie ma za co.",
+      "meaning": "천만에요.",
+      "reading": ""
+    },
+    {
+      "id": "polish-p009",
+      "topic": "greetings",
+      "text": "Przepraszam.",
+      "meaning": "죄송합니다. / 실례합니다.",
+      "reading": ""
+    },
+    {
+      "id": "polish-p010",
+      "topic": "greetings",
+      "text": "Nic nie szkodzi.",
+      "meaning": "괜찮아요.",
+      "reading": ""
+    },
+    {
+      "id": "polish-p011",
+      "topic": "introductions",
+      "text": "Jak masz na imię?",
+      "meaning": "이름이 뭐예요? (친근하게)",
+      "reading": ""
+    },
+    {
+      "id": "polish-p012",
+      "topic": "introductions",
+      "text": "Mam na imię Min.",
+      "meaning": "제 이름은 민이에요.",
+      "reading": ""
+    },
+    {
+      "id": "polish-p013",
+      "topic": "introductions",
+      "text": "Miło mi.",
+      "meaning": "만나서 반가워요.",
+      "reading": ""
+    },
+    {
+      "id": "polish-p014",
+      "topic": "introductions",
+      "text": "Skąd jesteś?",
+      "meaning": "어디에서 왔어요? (친근하게)",
+      "reading": ""
+    },
+    {
+      "id": "polish-p015",
+      "topic": "introductions",
+      "text": "Jestem z Korei Południowej.",
+      "meaning": "저는 한국에서 왔어요.",
+      "reading": ""
+    },
+    {
+      "id": "polish-p016",
+      "topic": "introductions",
+      "text": "Uczę się polskiego.",
+      "meaning": "저는 폴란드어를 배우고 있어요.",
+      "reading": ""
+    },
+    {
+      "id": "polish-p017",
+      "topic": "introductions",
+      "text": "Mówię trochę po polsku.",
+      "meaning": "폴란드어를 조금 해요.",
+      "reading": ""
+    },
+    {
+      "id": "polish-p018",
+      "topic": "introductions",
+      "text": "Czy mówi pan po angielsku?",
+      "meaning": "영어 하세요? (남성에게 공손하게)",
+      "reading": ""
+    },
+    {
+      "id": "polish-p019",
+      "topic": "introductions",
+      "text": "Czy mówi pani po angielsku?",
+      "meaning": "영어 하세요? (여성에게 공손하게)",
+      "reading": ""
+    },
+    {
+      "id": "polish-p020",
+      "topic": "introductions",
+      "text": "Jak się masz?",
+      "meaning": "어떻게 지내요? (친근하게)",
+      "reading": ""
+    },
+    {
+      "id": "polish-p021",
+      "topic": "introductions",
+      "text": "Dobrze, dziękuję.",
+      "meaning": "잘 지내요. 고마워요.",
+      "reading": ""
+    },
+    {
+      "id": "polish-p022",
+      "topic": "essentials",
+      "text": "Tak.",
+      "meaning": "네.",
+      "reading": ""
+    },
+    {
+      "id": "polish-p023",
+      "topic": "essentials",
+      "text": "Nie.",
+      "meaning": "아니요.",
+      "reading": ""
+    },
+    {
+      "id": "polish-p024",
+      "topic": "essentials",
+      "text": "Nie rozumiem.",
+      "meaning": "이해하지 못했어요.",
+      "reading": ""
+    },
+    {
+      "id": "polish-p025",
+      "topic": "essentials",
+      "text": "Proszę powtórzyć.",
+      "meaning": "다시 말씀해 주세요.",
+      "reading": ""
+    },
+    {
+      "id": "polish-p026",
+      "topic": "essentials",
+      "text": "Proszę mówić wolniej.",
+      "meaning": "조금 천천히 말씀해 주세요.",
+      "reading": ""
+    },
+    {
+      "id": "polish-p027",
+      "topic": "essentials",
+      "text": "Co to znaczy?",
+      "meaning": "이것은 무슨 뜻이에요?",
+      "reading": ""
+    },
+    {
+      "id": "polish-p028",
+      "topic": "essentials",
+      "text": "Jak to powiedzieć po polsku?",
+      "meaning": "이것을 폴란드어로 어떻게 말해요?",
+      "reading": ""
+    },
+    {
+      "id": "polish-p029",
+      "topic": "food",
+      "text": "Poproszę kawę.",
+      "meaning": "커피 한 잔 주세요.",
+      "reading": ""
+    },
+    {
+      "id": "polish-p030",
+      "topic": "food",
+      "text": "Poproszę herbatę.",
+      "meaning": "차 한 잔 주세요.",
+      "reading": ""
+    },
+    {
+      "id": "polish-p031",
+      "topic": "food",
+      "text": "Poproszę menu.",
+      "meaning": "메뉴판 주세요.",
+      "reading": ""
+    },
+    {
+      "id": "polish-p032",
+      "topic": "food",
+      "text": "Bez mięsa, proszę.",
+      "meaning": "고기는 빼 주세요.",
+      "reading": ""
+    },
+    {
+      "id": "polish-p033",
+      "topic": "food",
+      "text": "Bez mleka, proszę.",
+      "meaning": "우유는 빼 주세요.",
+      "reading": ""
+    },
+    {
+      "id": "polish-p034",
+      "topic": "food",
+      "text": "Poproszę szklankę wody.",
+      "meaning": "물 한 잔 주세요.",
+      "reading": ""
+    },
+    {
+      "id": "polish-p035",
+      "topic": "food",
+      "text": "To jest smaczne.",
+      "meaning": "맛있어요.",
+      "reading": ""
+    },
+    {
+      "id": "polish-p036",
+      "topic": "food",
+      "text": "Poproszę rachunek.",
+      "meaning": "계산서 주세요.",
+      "reading": ""
+    },
+    {
+      "id": "polish-p037",
+      "topic": "transport",
+      "text": "Gdzie jest dworzec?",
+      "meaning": "역이 어디예요?",
+      "reading": ""
+    },
+    {
+      "id": "polish-p038",
+      "topic": "transport",
+      "text": "Poproszę bilet do Warszawy.",
+      "meaning": "바르샤바행 표 한 장 주세요.",
+      "reading": ""
+    },
+    {
+      "id": "polish-p039",
+      "topic": "transport",
+      "text": "O której odjeżdża pociąg?",
+      "meaning": "기차는 몇 시에 출발해요?",
+      "reading": ""
+    },
+    {
+      "id": "polish-p040",
+      "topic": "transport",
+      "text": "Z którego peronu?",
+      "meaning": "몇 번 승강장에서 출발하나요?",
+      "reading": ""
+    },
+    {
+      "id": "polish-p041",
+      "topic": "transport",
+      "text": "Czy ten autobus jedzie do centrum?",
+      "meaning": "이 버스는 시내로 가나요?",
+      "reading": ""
+    },
+    {
+      "id": "polish-p042",
+      "topic": "transport",
+      "text": "Chcę tutaj wysiąść.",
+      "meaning": "여기서 내리고 싶어요.",
+      "reading": ""
+    },
+    {
+      "id": "polish-p043",
+      "topic": "transport",
+      "text": "Jak długo to trwa?",
+      "meaning": "얼마나 걸려요?",
+      "reading": ""
+    },
+    {
+      "id": "polish-p044",
+      "topic": "shopping",
+      "text": "Ile to kosztuje?",
+      "meaning": "이것은 얼마예요?",
+      "reading": ""
+    },
+    {
+      "id": "polish-p045",
+      "topic": "shopping",
+      "text": "Czy mogę zapłacić kartą?",
+      "meaning": "카드로 계산할 수 있나요?",
+      "reading": ""
+    },
+    {
+      "id": "polish-p046",
+      "topic": "shopping",
+      "text": "Czy jest mniejszy rozmiar?",
+      "meaning": "더 작은 사이즈가 있나요?",
+      "reading": ""
+    },
+    {
+      "id": "polish-p047",
+      "topic": "shopping",
+      "text": "Tylko oglądam.",
+      "meaning": "구경만 할게요.",
+      "reading": ""
+    },
+    {
+      "id": "polish-p048",
+      "topic": "shopping",
+      "text": "Wezmę to.",
+      "meaning": "이것으로 할게요.",
+      "reading": ""
+    },
+    {
+      "id": "polish-p049",
+      "topic": "shopping",
+      "text": "Poproszę paragon.",
+      "meaning": "영수증 주세요.",
+      "reading": ""
+    },
+    {
+      "id": "polish-p050",
+      "topic": "directions",
+      "text": "Gdzie jest toaleta?",
+      "meaning": "화장실이 어디예요?",
+      "reading": ""
+    },
+    {
+      "id": "polish-p051",
+      "topic": "directions",
+      "text": "Czy to daleko?",
+      "meaning": "먼가요?",
+      "reading": ""
+    },
+    {
+      "id": "polish-p052",
+      "topic": "directions",
+      "text": "Proszę iść prosto.",
+      "meaning": "곧장 가세요.",
+      "reading": ""
+    },
+    {
+      "id": "polish-p053",
+      "topic": "directions",
+      "text": "Proszę skręcić w lewo.",
+      "meaning": "왼쪽으로 도세요.",
+      "reading": ""
+    },
+    {
+      "id": "polish-p054",
+      "topic": "directions",
+      "text": "Proszę skręcić w prawo.",
+      "meaning": "오른쪽으로 도세요.",
+      "reading": ""
+    },
+    {
+      "id": "polish-p055",
+      "topic": "directions",
+      "text": "Proszę pokazać na mapie.",
+      "meaning": "지도에서 가리켜 주세요.",
+      "reading": ""
+    },
+    {
+      "id": "polish-p056",
+      "topic": "stay",
+      "text": "Mam rezerwację.",
+      "meaning": "예약했어요.",
+      "reading": ""
+    },
+    {
+      "id": "polish-p057",
+      "topic": "stay",
+      "text": "Chcę się zameldować.",
+      "meaning": "체크인하고 싶어요.",
+      "reading": ""
+    },
+    {
+      "id": "polish-p058",
+      "topic": "stay",
+      "text": "Jakie jest hasło do Wi-Fi?",
+      "meaning": "와이파이 비밀번호가 뭔가요?",
+      "reading": ""
+    },
+    {
+      "id": "polish-p059",
+      "topic": "stay",
+      "text": "O której jest śniadanie?",
+      "meaning": "아침 식사는 몇 시예요?",
+      "reading": ""
+    },
+    {
+      "id": "polish-p060",
+      "topic": "stay",
+      "text": "Zostaję na dwie noce.",
+      "meaning": "이틀 밤 머물 거예요.",
+      "reading": ""
+    },
+    {
+      "id": "polish-p061",
+      "topic": "help",
+      "text": "Potrzebuję pomocy.",
+      "meaning": "도움이 필요해요.",
+      "reading": ""
+    },
+    {
+      "id": "polish-p062",
+      "topic": "help",
+      "text": "Nie mogę znaleźć drogi.",
+      "meaning": "길을 찾지 못하겠어요.",
+      "reading": ""
+    },
+    {
+      "id": "polish-p063",
+      "topic": "help",
+      "text": "Źle się czuję.",
+      "meaning": "몸이 좋지 않아요.",
+      "reading": ""
+    },
+    {
+      "id": "polish-p064",
+      "topic": "help",
+      "text": "Gdzie jest apteka?",
+      "meaning": "약국이 어디예요?",
+      "reading": ""
+    },
+    {
+      "id": "polish-p065",
+      "topic": "help",
+      "text": "Proszę wezwać karetkę.",
+      "meaning": "구급차를 불러 주세요.",
+      "reading": ""
+    },
+    {
+      "id": "polish-p066",
+      "topic": "time",
+      "text": "Która jest godzina?",
+      "meaning": "몇 시예요?",
+      "reading": ""
+    },
+    {
+      "id": "polish-p067",
+      "topic": "time",
+      "text": "Dzisiaj mam czas.",
+      "meaning": "오늘은 시간이 있어요.",
+      "reading": ""
+    },
+    {
+      "id": "polish-p068",
+      "topic": "time",
+      "text": "Do jutra!",
+      "meaning": "내일 봐요!",
+      "reading": ""
+    },
+    {
+      "id": "polish-p069",
+      "topic": "time",
+      "text": "Pada deszcz.",
+      "meaning": "비가 와요.",
+      "reading": ""
+    },
+    {
+      "id": "polish-p070",
+      "topic": "time",
+      "text": "Jest zimno.",
+      "meaning": "추워요.",
+      "reading": ""
+    }
+  ],
+  "words": [
+    {
+      "id": "polish-w001",
+      "topic": "words",
+      "text": "woda",
+      "meaning": "물",
+      "reading": ""
+    },
+    {
+      "id": "polish-w002",
+      "topic": "words",
+      "text": "herbata",
+      "meaning": "차",
+      "reading": ""
+    },
+    {
+      "id": "polish-w003",
+      "topic": "words",
+      "text": "kawa",
+      "meaning": "커피",
+      "reading": ""
+    },
+    {
+      "id": "polish-w004",
+      "topic": "words",
+      "text": "mleko",
+      "meaning": "우유",
+      "reading": ""
+    },
+    {
+      "id": "polish-w005",
+      "topic": "words",
+      "text": "chleb",
+      "meaning": "빵",
+      "reading": ""
+    },
+    {
+      "id": "polish-w006",
+      "topic": "words",
+      "text": "ser",
+      "meaning": "치즈",
+      "reading": ""
+    },
+    {
+      "id": "polish-w007",
+      "topic": "words",
+      "text": "jabłko",
+      "meaning": "사과",
+      "reading": ""
+    },
+    {
+      "id": "polish-w008",
+      "topic": "words",
+      "text": "ryż",
+      "meaning": "쌀 / 밥",
+      "reading": ""
+    },
+    {
+      "id": "polish-w009",
+      "topic": "words",
+      "text": "dom",
+      "meaning": "집",
+      "reading": ""
+    },
+    {
+      "id": "polish-w010",
+      "topic": "words",
+      "text": "szkoła",
+      "meaning": "학교",
+      "reading": ""
+    },
+    {
+      "id": "polish-w011",
+      "topic": "words",
+      "text": "książka",
+      "meaning": "책",
+      "reading": ""
+    },
+    {
+      "id": "polish-w012",
+      "topic": "words",
+      "text": "długopis",
+      "meaning": "펜",
+      "reading": ""
+    },
+    {
+      "id": "polish-w013",
+      "topic": "words",
+      "text": "rower",
+      "meaning": "자전거",
+      "reading": ""
+    },
+    {
+      "id": "polish-w014",
+      "topic": "words",
+      "text": "pociąg",
+      "meaning": "기차",
+      "reading": ""
+    },
+    {
+      "id": "polish-w015",
+      "topic": "words",
+      "text": "autobus",
+      "meaning": "버스",
+      "reading": ""
+    },
+    {
+      "id": "polish-w016",
+      "topic": "words",
+      "text": "dworzec",
+      "meaning": "역",
+      "reading": ""
+    },
+    {
+      "id": "polish-w017",
+      "topic": "words",
+      "text": "przyjaciel",
+      "meaning": "친구 (남성)",
+      "reading": ""
+    },
+    {
+      "id": "polish-w018",
+      "topic": "words",
+      "text": "przyjaciółka",
+      "meaning": "친구 (여성)",
+      "reading": ""
+    },
+    {
+      "id": "polish-w019",
+      "topic": "words",
+      "text": "rodzina",
+      "meaning": "가족",
+      "reading": ""
+    },
+    {
+      "id": "polish-w020",
+      "topic": "words",
+      "text": "dziecko",
+      "meaning": "아이",
+      "reading": ""
+    },
+    {
+      "id": "polish-w021",
+      "topic": "words",
+      "text": "dzień",
+      "meaning": "날 / 낮",
+      "reading": ""
+    },
+    {
+      "id": "polish-w022",
+      "topic": "words",
+      "text": "noc",
+      "meaning": "밤",
+      "reading": ""
+    },
+    {
+      "id": "polish-w023",
+      "topic": "words",
+      "text": "dzisiaj",
+      "meaning": "오늘",
+      "reading": ""
+    },
+    {
+      "id": "polish-w024",
+      "topic": "words",
+      "text": "jutro",
+      "meaning": "내일",
+      "reading": ""
+    },
+    {
+      "id": "polish-w025",
+      "topic": "words",
+      "text": "lewo",
+      "meaning": "왼쪽",
+      "reading": ""
+    },
+    {
+      "id": "polish-w026",
+      "topic": "words",
+      "text": "prawo",
+      "meaning": "오른쪽",
+      "reading": ""
+    },
+    {
+      "id": "polish-w027",
+      "topic": "words",
+      "text": "duży",
+      "meaning": "큰 (남성형)",
+      "reading": ""
+    },
+    {
+      "id": "polish-w028",
+      "topic": "words",
+      "text": "mały",
+      "meaning": "작은 (남성형)",
+      "reading": ""
+    },
+    {
+      "id": "polish-w029",
+      "topic": "words",
+      "text": "dobry",
+      "meaning": "좋은 (남성형)",
+      "reading": ""
+    },
+    {
+      "id": "polish-w030",
+      "topic": "words",
+      "text": "piękny",
+      "meaning": "아름다운 (남성형)",
+      "reading": ""
+    },
+    {
+      "id": "polish-w031",
+      "topic": "words",
+      "text": "jeden",
+      "meaning": "하나",
+      "reading": ""
+    },
+    {
+      "id": "polish-w032",
+      "topic": "words",
+      "text": "dwa",
+      "meaning": "둘",
+      "reading": ""
+    },
+    {
+      "id": "polish-w033",
+      "topic": "words",
+      "text": "trzy",
+      "meaning": "셋",
+      "reading": ""
+    },
+    {
+      "id": "polish-w034",
+      "topic": "words",
+      "text": "cztery",
+      "meaning": "넷",
+      "reading": ""
+    },
+    {
+      "id": "polish-w035",
+      "topic": "words",
+      "text": "pięć",
+      "meaning": "다섯",
+      "reading": ""
+    },
+    {
+      "id": "polish-w036",
+      "topic": "words",
+      "text": "sześć",
+      "meaning": "여섯",
+      "reading": ""
+    },
+    {
+      "id": "polish-w037",
+      "topic": "words",
+      "text": "siedem",
+      "meaning": "일곱",
+      "reading": ""
+    },
+    {
+      "id": "polish-w038",
+      "topic": "words",
+      "text": "osiem",
+      "meaning": "여덟",
+      "reading": ""
+    },
+    {
+      "id": "polish-w039",
+      "topic": "words",
+      "text": "dziewięć",
+      "meaning": "아홉",
+      "reading": ""
+    },
+    {
+      "id": "polish-w040",
+      "topic": "words",
+      "text": "dziesięć",
+      "meaning": "열",
+      "reading": ""
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "polish-d01",
+      "title": "첫 만남",
+      "lines": [
+        {
+          "who": "A",
+          "text": "Cześć! Jak masz na imię?",
+          "meaning": "안녕! 이름이 뭐예요?",
+          "reading": ""
+        },
+        {
+          "who": "B",
+          "text": "Mam na imię Min. A ty?",
+          "meaning": "저는 민이에요. 당신은요?",
+          "reading": ""
+        },
+        {
+          "who": "A",
+          "text": "Mam na imię Anna.",
+          "meaning": "저는 안나예요.",
+          "reading": ""
+        },
+        {
+          "who": "B",
+          "text": "Miło mi.",
+          "meaning": "반가워요.",
+          "reading": ""
+        }
+      ]
+    },
+    {
+      "id": "polish-d02",
+      "title": "카페 주문",
+      "lines": [
+        {
+          "who": "A",
+          "text": "Dzień dobry. Co podać?",
+          "meaning": "안녕하세요. 무엇을 드릴까요?",
+          "reading": ""
+        },
+        {
+          "who": "B",
+          "text": "Poproszę kawę.",
+          "meaning": "커피 한 잔 주세요.",
+          "reading": ""
+        },
+        {
+          "who": "A",
+          "text": "Z mlekiem?",
+          "meaning": "우유를 넣을까요?",
+          "reading": ""
+        },
+        {
+          "who": "B",
+          "text": "Tak, proszę.",
+          "meaning": "네, 부탁해요.",
+          "reading": ""
+        }
+      ]
+    },
+    {
+      "id": "polish-d03",
+      "title": "길 묻기",
+      "lines": [
+        {
+          "who": "A",
+          "text": "Przepraszam, gdzie jest dworzec?",
+          "meaning": "실례합니다. 역이 어디예요?",
+          "reading": ""
+        },
+        {
+          "who": "B",
+          "text": "Proszę iść prosto.",
+          "meaning": "곧장 가세요.",
+          "reading": ""
+        },
+        {
+          "who": "A",
+          "text": "Czy to daleko?",
+          "meaning": "먼가요?",
+          "reading": ""
+        },
+        {
+          "who": "B",
+          "text": "Nie, pięć minut pieszo.",
+          "meaning": "아니요. 걸어서 5분이에요.",
+          "reading": ""
+        }
+      ]
+    },
+    {
+      "id": "polish-d04",
+      "title": "계산하기",
+      "lines": [
+        {
+          "who": "A",
+          "text": "Ile to kosztuje?",
+          "meaning": "이것은 얼마예요?",
+          "reading": ""
+        },
+        {
+          "who": "B",
+          "text": "Dziesięć złotych.",
+          "meaning": "10즈워티예요.",
+          "reading": ""
+        },
+        {
+          "who": "A",
+          "text": "Czy mogę zapłacić kartą?",
+          "meaning": "카드로 계산할 수 있나요?",
+          "reading": ""
+        },
+        {
+          "who": "B",
+          "text": "Tak, proszę.",
+          "meaning": "네, 그렇게 하세요.",
+          "reading": ""
+        }
+      ]
+    },
+    {
+      "id": "polish-d05",
+      "title": "기차 타기",
+      "lines": [
+        {
+          "who": "A",
+          "text": "O której odjeżdża pociąg?",
+          "meaning": "기차는 몇 시에 출발해요?",
+          "reading": ""
+        },
+        {
+          "who": "B",
+          "text": "O dziesiątej.",
+          "meaning": "10시에요.",
+          "reading": ""
+        },
+        {
+          "who": "A",
+          "text": "Z którego peronu?",
+          "meaning": "몇 번 승강장에서 출발하나요?",
+          "reading": ""
+        },
+        {
+          "who": "B",
+          "text": "Z peronu drugiego.",
+          "meaning": "2번 승강장에서요.",
+          "reading": ""
+        }
+      ]
+    },
+    {
+      "id": "polish-d06",
+      "title": "체크인",
+      "lines": [
+        {
+          "who": "A",
+          "text": "Mam rezerwację.",
+          "meaning": "예약했어요.",
+          "reading": ""
+        },
+        {
+          "who": "B",
+          "text": "Na jakie nazwisko?",
+          "meaning": "성함이 어떻게 되세요?",
+          "reading": ""
+        },
+        {
+          "who": "A",
+          "text": "Kim.",
+          "meaning": "김입니다.",
+          "reading": ""
+        },
+        {
+          "who": "B",
+          "text": "Proszę bardzo.",
+          "meaning": "여기 있습니다.",
+          "reading": ""
+        }
+      ]
+    },
+    {
+      "id": "polish-d07",
+      "title": "천천히 부탁하기",
+      "lines": [
+        {
+          "who": "A",
+          "text": "Nie rozumiem.",
+          "meaning": "이해하지 못했어요.",
+          "reading": ""
+        },
+        {
+          "who": "B",
+          "text": "Powtórzyć?",
+          "meaning": "다시 말할까요?",
+          "reading": ""
+        },
+        {
+          "who": "A",
+          "text": "Tak. Proszę mówić wolniej.",
+          "meaning": "네. 천천히 말씀해 주세요.",
+          "reading": ""
+        },
+        {
+          "who": "B",
+          "text": "Dobrze.",
+          "meaning": "알겠어요.",
+          "reading": ""
+        }
+      ]
+    },
+    {
+      "id": "polish-d08",
+      "title": "내일 약속",
+      "lines": [
+        {
+          "who": "A",
+          "text": "Masz jutro czas?",
+          "meaning": "내일 시간 있어요?",
+          "reading": ""
+        },
+        {
+          "who": "B",
+          "text": "Tak, po południu.",
+          "meaning": "네, 오후에요.",
+          "reading": ""
+        },
+        {
+          "who": "A",
+          "text": "Może kawa?",
+          "meaning": "커피 한잔할까요?",
+          "reading": ""
+        },
+        {
+          "who": "B",
+          "text": "Chętnie. Do jutra!",
+          "meaning": "좋아요. 내일 봐요!",
+          "reading": ""
+        }
+      ]
+    }
+  ]
+}

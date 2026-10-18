@@ -1,0 +1,35 @@
+{
+  "generator": "built-in image_gen",
+  "images": [
+    {
+      "id": "indonesian",
+      "path": "/home/kms/.codex/generated_images/01a12894-d3a1-7322-b90b-40bdaad343f5/exec-9d3db7fe-8516-4e2f-bf23-8d3e5e53bf08.png",
+      "prompt": "Use case: illustration-story. Asset type: landscape cover illustration for a Korean language learning portal. Indonesian language learning: an open exercise notebook, fountain pen and a small woven market basket in the foreground, lush emerald Indonesian rice terraces, a warm terracotta-roof village and frangipani blossoms in the distance. Style: polished vivid editorial diorama, tactile cut-paper and clay forms, detailed yet readable at thumbnail size, warm daylight, gentle shadows, cream ground with restrained saturated colors. Composition: one coherent beautiful landscape, 3:2 horizontal composition, central objects fully visible, generous breathing room. No text, no letters, no numbers, no flags, no logos, no watermark. Not a webpage screenshot.",
+      "asset": "/home/kms/dev/language-foundations/assets/indonesian.webp"
+    },
+    {
+      "id": "cantonese",
+      "path": "/home/kms/.codex/generated_images/01a12894-d3a1-7322-b90b-40bdaad343f5/exec-3cded0a8-494b-4636-b134-ba14b6ac9093.png",
+      "prompt": "Use case: illustration-story. Asset type: landscape cover illustration for a Korean language learning portal. Cantonese language learning: a brush, elegant open practice notebook and a small bamboo dim sum steamer in the foreground, Hong Kong Victoria Harbour with a red-sailed junk and lively streets in the distance. Style: polished vivid editorial diorama, tactile cut-paper and clay forms, detailed yet readable at thumbnail size, warm daylight, gentle shadows, cream ground with restrained saturated colors. Composition: one coherent beautiful landscape, 3:2 horizontal composition, central objects fully visible, generous breathing room. No text, no letters, no numbers, no flags, no logos, no watermark. Not a webpage screenshot.",
+      "asset": "/home/kms/dev/language-foundations/assets/cantonese.webp"
+    },
+    {
+      "id": "swedish",
+      "path": "/home/kms/.codex/generated_images/01a12894-d3a1-7322-b90b-40bdaad343f5/exec-f681e11f-740a-4a7f-9a8d-c8ce96ff7c07.png",
+      "prompt": "Use case: illustration-story. Asset type: landscape cover illustration for a Korean language learning portal. Swedish language learning: an open exercise notebook, pen, cinnamon bun and a small ceramic coffee cup in the foreground, a red Swedish wooden cottage, birch trees and a peaceful lakeshore in the distance. Style: polished vivid editorial diorama, tactile cut-paper and clay forms, detailed yet readable at thumbnail size, warm daylight, gentle shadows, cream ground with restrained saturated colors. Composition: one coherent beautiful landscape, 3:2 horizontal composition, central objects fully visible, generous breathing room. No text, no letters, no numbers, no flags, no logos, no watermark. Not a webpage screenshot.",
+      "asset": "/home/kms/dev/language-foundations/assets/swedish.webp"
+    },
+    {
+      "id": "dutch",
+      "path": "/home/kms/.codex/generated_images/01a12894-d3a1-7322-b90b-40bdaad343f5/exec-00ff82f0-7a39-403d-a800-418ccdaf4d34.png",
+      "prompt": "Use case: illustration-story. Asset type: landscape cover illustration for a Korean language learning portal. Dutch language learning: an open exercise notebook, pen and cobalt blue ceramic cup in the foreground, Amsterdam canal houses, a bicycle, small red tulips and a quiet canal in the distance. Style: polished vivid editorial diorama, tactile cut-paper and clay forms, detailed yet readable at thumbnail size, warm daylight, gentle shadows, cream ground with restrained saturated colors. Composition: one coherent beautiful landscape, 3:2 horizontal composition, central objects fully visible, generous breathing room. No text, no letters, no numbers, no flags, no logos, no watermark. Not a webpage screenshot.",
+      "asset": "/home/kms/dev/language-foundations/assets/dutch.webp"
+    },
+    {
+      "id": "polish",
+      "path": "/home/kms/.codex/generated_images/01a12894-d3a1-7322-b90b-40bdaad343f5/exec-65d89a6f-75af-4002-acc5-9d4458f0641e.png",
+      "prompt": "Use case: illustration-story. Asset type: landscape cover illustration for a Korean language learning portal. Polish language learning: an open exercise notebook, pen and amber glass paperweight in the foreground, colorful Gdansk-style Polish town houses, a little riverside bridge and red poppies in the distance. Style: polished vivid editorial diorama, tactile cut-paper and clay forms, detailed yet readable at thumbnail size, warm daylight, gentle shadows, cream ground with restrained saturated colors. Composition: one coherent beautiful landscape, 3:2 horizontal composition, central objects fully visible, generous breathing room. No text, no letters, no numbers, no flags, no logos, no watermark. Not a webpage screenshot.",
+      "asset": "/home/kms/dev/language-foundations/assets/polish.webp"
+    }
+  ]
+}

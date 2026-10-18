@@ -1,0 +1,1069 @@
+{
+  "ko": "스웨덴어",
+  "native": "Svenska",
+  "locale": "sv-SE",
+  "accent": "#526d91",
+  "alphabet": "abcdefghijklmnopqrstuvwxyzåäö",
+  "special": "åäöÅÄÖ",
+  "country": "스웨덴",
+  "intro": "å·ä·ö를 쓰고, 일상 속 짧은 대화를 시작해요.",
+  "sources": [
+    {
+      "label": "스웨덴 한림원 사전 svenska.se",
+      "url": "https://svenska.se/"
+    },
+    {
+      "label": "스웨덴 언어·민속 연구소 Isof",
+      "url": "https://www.isof.se/"
+    }
+  ],
+  "key": "swedish",
+  "notes": [
+    {
+      "title": "å·ä·ö는 독립된 글자",
+      "text": "스웨덴어 알파벳은 a~z 다음에 å·ä·ö가 오는 29자입니다. a·o에 붙은 장식으로 생각하지 말고 별개 글자로 익히세요.",
+      "example": "åtta · äpple · ö"
+    },
+    {
+      "title": "긴 모음과 긴 자음",
+      "text": "강세 있는 음절에서 모음과 뒤 자음의 길이가 뜻을 구별할 수 있습니다. 철자만으로 단정하지 말고 음성을 함께 들으세요.",
+      "example": "tak / tack"
+    },
+    {
+      "title": "동사는 인칭에 따라 그대로",
+      "text": "현재형에서는 주어가 jag·du·vi로 바뀌어도 동사 형태가 같습니다.",
+      "example": "jag talar / du talar / vi talar"
+    },
+    {
+      "title": "en과 ett를 함께",
+      "text": "명사를 en·ett와 함께 외우세요. 정관사는 보통 명사 뒤에 붙습니다.",
+      "example": "en bok → boken / ett hus → huset"
+    },
+    {
+      "title": "평서문의 동사 위치",
+      "text": "기본 평서문에서는 활용된 동사가 두 번째 문장 성분 자리에 옵니다. 시간 표현을 먼저 말하면 주어가 뒤로 갑니다.",
+      "example": "Jag har tid idag. / Idag har jag tid."
+    },
+    {
+      "title": "tack와 공손한 요청",
+      "text": "주문 뒤에 tack을 붙이거나 Kan jag få…?로 부탁할 수 있습니다.",
+      "example": "En kaffe, tack. / Kan jag få notan?"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "swedish-p001",
+      "topic": "greetings",
+      "text": "Hej!",
+      "meaning": "안녕하세요!",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p002",
+      "topic": "greetings",
+      "text": "God morgon.",
+      "meaning": "좋은 아침이에요.",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p003",
+      "topic": "greetings",
+      "text": "God kväll.",
+      "meaning": "안녕하세요. (저녁 인사)",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p004",
+      "topic": "greetings",
+      "text": "Hej då!",
+      "meaning": "잘 가요! / 안녕히 계세요!",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p005",
+      "topic": "greetings",
+      "text": "Vi ses!",
+      "meaning": "또 만나요!",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p006",
+      "topic": "greetings",
+      "text": "Tack.",
+      "meaning": "감사합니다.",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p007",
+      "topic": "greetings",
+      "text": "Tack så mycket.",
+      "meaning": "정말 감사합니다.",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p008",
+      "topic": "greetings",
+      "text": "Varsågod.",
+      "meaning": "천만에요. / 여기 있습니다.",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p009",
+      "topic": "greetings",
+      "text": "Ursäkta.",
+      "meaning": "실례합니다.",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p010",
+      "topic": "greetings",
+      "text": "Förlåt.",
+      "meaning": "미안해요.",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p011",
+      "topic": "greetings",
+      "text": "Ingen fara.",
+      "meaning": "괜찮아요.",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p012",
+      "topic": "introductions",
+      "text": "Vad heter du?",
+      "meaning": "이름이 뭐예요?",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p013",
+      "topic": "introductions",
+      "text": "Jag heter Min.",
+      "meaning": "제 이름은 민이에요.",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p014",
+      "topic": "introductions",
+      "text": "Trevligt att träffas.",
+      "meaning": "만나서 반가워요.",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p015",
+      "topic": "introductions",
+      "text": "Var kommer du ifrån?",
+      "meaning": "어디에서 왔어요?",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p016",
+      "topic": "introductions",
+      "text": "Jag kommer från Sydkorea.",
+      "meaning": "저는 한국에서 왔어요.",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p017",
+      "topic": "introductions",
+      "text": "Jag lär mig svenska.",
+      "meaning": "저는 스웨덴어를 배우고 있어요.",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p018",
+      "topic": "introductions",
+      "text": "Jag talar lite svenska.",
+      "meaning": "스웨덴어를 조금 해요.",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p019",
+      "topic": "introductions",
+      "text": "Talar du engelska?",
+      "meaning": "영어 하세요?",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p020",
+      "topic": "introductions",
+      "text": "Hur mår du?",
+      "meaning": "어떻게 지내요?",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p021",
+      "topic": "introductions",
+      "text": "Jag mår bra, tack.",
+      "meaning": "잘 지내요. 고마워요.",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p022",
+      "topic": "essentials",
+      "text": "Ja.",
+      "meaning": "네.",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p023",
+      "topic": "essentials",
+      "text": "Nej.",
+      "meaning": "아니요.",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p024",
+      "topic": "essentials",
+      "text": "Jag förstår inte.",
+      "meaning": "이해하지 못했어요.",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p025",
+      "topic": "essentials",
+      "text": "Kan du säga det igen?",
+      "meaning": "다시 말씀해 주시겠어요?",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p026",
+      "topic": "essentials",
+      "text": "Kan du prata långsammare?",
+      "meaning": "조금 천천히 말씀해 주시겠어요?",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p027",
+      "topic": "essentials",
+      "text": "Vad betyder det?",
+      "meaning": "이것은 무슨 뜻이에요?",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p028",
+      "topic": "essentials",
+      "text": "Hur säger man det på svenska?",
+      "meaning": "이것을 스웨덴어로 어떻게 말해요?",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p029",
+      "topic": "food",
+      "text": "En kaffe, tack.",
+      "meaning": "커피 한 잔 주세요.",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p030",
+      "topic": "food",
+      "text": "En kopp te, tack.",
+      "meaning": "차 한 잔 주세요.",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p031",
+      "topic": "food",
+      "text": "Kan jag få menyn?",
+      "meaning": "메뉴판을 받을 수 있을까요?",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p032",
+      "topic": "food",
+      "text": "Jag äter inte kött.",
+      "meaning": "저는 고기를 먹지 않아요.",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p033",
+      "topic": "food",
+      "text": "Utan mjölk, tack.",
+      "meaning": "우유는 빼 주세요.",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p034",
+      "topic": "food",
+      "text": "Kan jag få ett glas vatten?",
+      "meaning": "물 한 잔 주시겠어요?",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p035",
+      "topic": "food",
+      "text": "Det smakar gott.",
+      "meaning": "맛있어요.",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p036",
+      "topic": "food",
+      "text": "Kan jag få notan?",
+      "meaning": "계산서 주세요.",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p037",
+      "topic": "transport",
+      "text": "Var ligger stationen?",
+      "meaning": "역이 어디예요?",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p038",
+      "topic": "transport",
+      "text": "En biljett till Stockholm, tack.",
+      "meaning": "스톡홀름행 표 한 장 주세요.",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p039",
+      "topic": "transport",
+      "text": "När går tåget?",
+      "meaning": "기차는 언제 출발해요?",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p040",
+      "topic": "transport",
+      "text": "Från vilket spår?",
+      "meaning": "몇 번 승강장에서 출발하나요?",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p041",
+      "topic": "transport",
+      "text": "Går den här bussen till centrum?",
+      "meaning": "이 버스는 시내로 가나요?",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p042",
+      "topic": "transport",
+      "text": "Jag vill gå av här.",
+      "meaning": "여기서 내리고 싶어요.",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p043",
+      "topic": "transport",
+      "text": "Hur lång tid tar det?",
+      "meaning": "얼마나 걸려요?",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p044",
+      "topic": "shopping",
+      "text": "Vad kostar det?",
+      "meaning": "이것은 얼마예요?",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p045",
+      "topic": "shopping",
+      "text": "Kan jag betala med kort?",
+      "meaning": "카드로 계산할 수 있나요?",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p046",
+      "topic": "shopping",
+      "text": "Finns det en mindre storlek?",
+      "meaning": "더 작은 사이즈가 있나요?",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p047",
+      "topic": "shopping",
+      "text": "Jag tittar bara.",
+      "meaning": "구경만 할게요.",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p048",
+      "topic": "shopping",
+      "text": "Jag tar den här.",
+      "meaning": "이것으로 할게요.",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p049",
+      "topic": "shopping",
+      "text": "Kan jag få ett kvitto?",
+      "meaning": "영수증 주시겠어요?",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p050",
+      "topic": "directions",
+      "text": "Var är toaletten?",
+      "meaning": "화장실이 어디예요?",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p051",
+      "topic": "directions",
+      "text": "Är det långt?",
+      "meaning": "먼가요?",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p052",
+      "topic": "directions",
+      "text": "Gå rakt fram.",
+      "meaning": "곧장 가세요.",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p053",
+      "topic": "directions",
+      "text": "Sväng vänster.",
+      "meaning": "왼쪽으로 도세요.",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p054",
+      "topic": "directions",
+      "text": "Sväng höger.",
+      "meaning": "오른쪽으로 도세요.",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p055",
+      "topic": "directions",
+      "text": "Kan du visa på kartan?",
+      "meaning": "지도에서 가리켜 주시겠어요?",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p056",
+      "topic": "stay",
+      "text": "Jag har en bokning.",
+      "meaning": "예약했어요.",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p057",
+      "topic": "stay",
+      "text": "Jag vill checka in.",
+      "meaning": "체크인하고 싶어요.",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p058",
+      "topic": "stay",
+      "text": "Vad är lösenordet till wifi?",
+      "meaning": "와이파이 비밀번호가 뭔가요?",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p059",
+      "topic": "stay",
+      "text": "När är frukosten?",
+      "meaning": "아침 식사는 언제예요?",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p060",
+      "topic": "stay",
+      "text": "Jag stannar två nätter.",
+      "meaning": "이틀 밤 머물 거예요.",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p061",
+      "topic": "help",
+      "text": "Jag behöver hjälp.",
+      "meaning": "도움이 필요해요.",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p062",
+      "topic": "help",
+      "text": "Jag har gått vilse.",
+      "meaning": "길을 잃었어요.",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p063",
+      "topic": "help",
+      "text": "Jag mår inte bra.",
+      "meaning": "몸이 좋지 않아요.",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p064",
+      "topic": "help",
+      "text": "Var finns ett apotek?",
+      "meaning": "약국이 어디예요?",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p065",
+      "topic": "help",
+      "text": "Ring en ambulans, tack.",
+      "meaning": "구급차를 불러 주세요.",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p066",
+      "topic": "time",
+      "text": "Vad är klockan?",
+      "meaning": "몇 시예요?",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p067",
+      "topic": "time",
+      "text": "Jag har tid idag.",
+      "meaning": "오늘은 시간이 있어요.",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p068",
+      "topic": "time",
+      "text": "Vi ses imorgon!",
+      "meaning": "내일 봐요!",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p069",
+      "topic": "time",
+      "text": "Det regnar.",
+      "meaning": "비가 와요.",
+      "reading": ""
+    },
+    {
+      "id": "swedish-p070",
+      "topic": "time",
+      "text": "Det är kallt.",
+      "meaning": "추워요.",
+      "reading": ""
+    }
+  ],
+  "words": [
+    {
+      "id": "swedish-w001",
+      "topic": "words",
+      "text": "vatten",
+      "meaning": "물",
+      "reading": ""
+    },
+    {
+      "id": "swedish-w002",
+      "topic": "words",
+      "text": "te",
+      "meaning": "차",
+      "reading": ""
+    },
+    {
+      "id": "swedish-w003",
+      "topic": "words",
+      "text": "kaffe",
+      "meaning": "커피",
+      "reading": ""
+    },
+    {
+      "id": "swedish-w004",
+      "topic": "words",
+      "text": "mjölk",
+      "meaning": "우유",
+      "reading": ""
+    },
+    {
+      "id": "swedish-w005",
+      "topic": "words",
+      "text": "bröd",
+      "meaning": "빵",
+      "reading": ""
+    },
+    {
+      "id": "swedish-w006",
+      "topic": "words",
+      "text": "ost",
+      "meaning": "치즈",
+      "reading": ""
+    },
+    {
+      "id": "swedish-w007",
+      "topic": "words",
+      "text": "äpple",
+      "meaning": "사과",
+      "reading": ""
+    },
+    {
+      "id": "swedish-w008",
+      "topic": "words",
+      "text": "ris",
+      "meaning": "쌀 / 밥",
+      "reading": ""
+    },
+    {
+      "id": "swedish-w009",
+      "topic": "words",
+      "text": "hus",
+      "meaning": "집",
+      "reading": ""
+    },
+    {
+      "id": "swedish-w010",
+      "topic": "words",
+      "text": "skola",
+      "meaning": "학교",
+      "reading": ""
+    },
+    {
+      "id": "swedish-w011",
+      "topic": "words",
+      "text": "bok",
+      "meaning": "책",
+      "reading": ""
+    },
+    {
+      "id": "swedish-w012",
+      "topic": "words",
+      "text": "penna",
+      "meaning": "펜",
+      "reading": ""
+    },
+    {
+      "id": "swedish-w013",
+      "topic": "words",
+      "text": "cykel",
+      "meaning": "자전거",
+      "reading": ""
+    },
+    {
+      "id": "swedish-w014",
+      "topic": "words",
+      "text": "tåg",
+      "meaning": "기차",
+      "reading": ""
+    },
+    {
+      "id": "swedish-w015",
+      "topic": "words",
+      "text": "buss",
+      "meaning": "버스",
+      "reading": ""
+    },
+    {
+      "id": "swedish-w016",
+      "topic": "words",
+      "text": "station",
+      "meaning": "역",
+      "reading": ""
+    },
+    {
+      "id": "swedish-w017",
+      "topic": "words",
+      "text": "vän",
+      "meaning": "친구",
+      "reading": ""
+    },
+    {
+      "id": "swedish-w018",
+      "topic": "words",
+      "text": "familj",
+      "meaning": "가족",
+      "reading": ""
+    },
+    {
+      "id": "swedish-w019",
+      "topic": "words",
+      "text": "barn",
+      "meaning": "아이",
+      "reading": ""
+    },
+    {
+      "id": "swedish-w020",
+      "topic": "words",
+      "text": "ö",
+      "meaning": "섬",
+      "reading": ""
+    },
+    {
+      "id": "swedish-w021",
+      "topic": "words",
+      "text": "dag",
+      "meaning": "날 / 낮",
+      "reading": ""
+    },
+    {
+      "id": "swedish-w022",
+      "topic": "words",
+      "text": "natt",
+      "meaning": "밤",
+      "reading": ""
+    },
+    {
+      "id": "swedish-w023",
+      "topic": "words",
+      "text": "idag",
+      "meaning": "오늘",
+      "reading": ""
+    },
+    {
+      "id": "swedish-w024",
+      "topic": "words",
+      "text": "imorgon",
+      "meaning": "내일",
+      "reading": ""
+    },
+    {
+      "id": "swedish-w025",
+      "topic": "words",
+      "text": "vänster",
+      "meaning": "왼쪽",
+      "reading": ""
+    },
+    {
+      "id": "swedish-w026",
+      "topic": "words",
+      "text": "höger",
+      "meaning": "오른쪽",
+      "reading": ""
+    },
+    {
+      "id": "swedish-w027",
+      "topic": "words",
+      "text": "stor",
+      "meaning": "큰",
+      "reading": ""
+    },
+    {
+      "id": "swedish-w028",
+      "topic": "words",
+      "text": "liten",
+      "meaning": "작은",
+      "reading": ""
+    },
+    {
+      "id": "swedish-w029",
+      "topic": "words",
+      "text": "bra",
+      "meaning": "좋은 / 잘",
+      "reading": ""
+    },
+    {
+      "id": "swedish-w030",
+      "topic": "words",
+      "text": "vacker",
+      "meaning": "아름다운",
+      "reading": ""
+    },
+    {
+      "id": "swedish-w031",
+      "topic": "words",
+      "text": "ett",
+      "meaning": "하나 (ett형)",
+      "reading": ""
+    },
+    {
+      "id": "swedish-w032",
+      "topic": "words",
+      "text": "två",
+      "meaning": "둘",
+      "reading": ""
+    },
+    {
+      "id": "swedish-w033",
+      "topic": "words",
+      "text": "tre",
+      "meaning": "셋",
+      "reading": ""
+    },
+    {
+      "id": "swedish-w034",
+      "topic": "words",
+      "text": "fyra",
+      "meaning": "넷",
+      "reading": ""
+    },
+    {
+      "id": "swedish-w035",
+      "topic": "words",
+      "text": "fem",
+      "meaning": "다섯",
+      "reading": ""
+    },
+    {
+      "id": "swedish-w036",
+      "topic": "words",
+      "text": "sex",
+      "meaning": "여섯",
+      "reading": ""
+    },
+    {
+      "id": "swedish-w037",
+      "topic": "words",
+      "text": "sju",
+      "meaning": "일곱",
+      "reading": ""
+    },
+    {
+      "id": "swedish-w038",
+      "topic": "words",
+      "text": "åtta",
+      "meaning": "여덟",
+      "reading": ""
+    },
+    {
+      "id": "swedish-w039",
+      "topic": "words",
+      "text": "nio",
+      "meaning": "아홉",
+      "reading": ""
+    },
+    {
+      "id": "swedish-w040",
+      "topic": "words",
+      "text": "tio",
+      "meaning": "열",
+      "reading": ""
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "swedish-d01",
+      "title": "첫 만남",
+      "lines": [
+        {
+          "who": "A",
+          "text": "Hej! Vad heter du?",
+          "meaning": "안녕하세요! 이름이 뭐예요?",
+          "reading": ""
+        },
+        {
+          "who": "B",
+          "text": "Jag heter Min. Och du?",
+          "meaning": "저는 민이에요. 당신은요?",
+          "reading": ""
+        },
+        {
+          "who": "A",
+          "text": "Jag heter Elsa.",
+          "meaning": "저는 엘사예요.",
+          "reading": ""
+        },
+        {
+          "who": "B",
+          "text": "Trevligt att träffas.",
+          "meaning": "반가워요.",
+          "reading": ""
+        }
+      ]
+    },
+    {
+      "id": "swedish-d02",
+      "title": "카페 주문",
+      "lines": [
+        {
+          "who": "A",
+          "text": "Hej! Vad vill du ha?",
+          "meaning": "안녕하세요! 무엇을 드릴까요?",
+          "reading": ""
+        },
+        {
+          "who": "B",
+          "text": "En kaffe, tack.",
+          "meaning": "커피 한 잔 주세요.",
+          "reading": ""
+        },
+        {
+          "who": "A",
+          "text": "Vill du ha mjölk?",
+          "meaning": "우유를 넣으시겠어요?",
+          "reading": ""
+        },
+        {
+          "who": "B",
+          "text": "Nej tack, utan mjölk.",
+          "meaning": "아니요. 우유는 빼 주세요.",
+          "reading": ""
+        }
+      ]
+    },
+    {
+      "id": "swedish-d03",
+      "title": "길 묻기",
+      "lines": [
+        {
+          "who": "A",
+          "text": "Ursäkta, var ligger stationen?",
+          "meaning": "실례합니다. 역이 어디예요?",
+          "reading": ""
+        },
+        {
+          "who": "B",
+          "text": "Gå rakt fram och sväng höger.",
+          "meaning": "곧장 가서 오른쪽으로 도세요.",
+          "reading": ""
+        },
+        {
+          "who": "A",
+          "text": "Är det långt?",
+          "meaning": "먼가요?",
+          "reading": ""
+        },
+        {
+          "who": "B",
+          "text": "Nej, fem minuter till fots.",
+          "meaning": "아니요. 걸어서 5분이에요.",
+          "reading": ""
+        }
+      ]
+    },
+    {
+      "id": "swedish-d04",
+      "title": "계산하기",
+      "lines": [
+        {
+          "who": "A",
+          "text": "Vad kostar det?",
+          "meaning": "이것은 얼마예요?",
+          "reading": ""
+        },
+        {
+          "who": "B",
+          "text": "Tjugo kronor.",
+          "meaning": "20크로나예요.",
+          "reading": ""
+        },
+        {
+          "who": "A",
+          "text": "Kan jag betala med kort?",
+          "meaning": "카드로 계산할 수 있나요?",
+          "reading": ""
+        },
+        {
+          "who": "B",
+          "text": "Ja, det går bra.",
+          "meaning": "네, 괜찮아요.",
+          "reading": ""
+        }
+      ]
+    },
+    {
+      "id": "swedish-d05",
+      "title": "기차 타기",
+      "lines": [
+        {
+          "who": "A",
+          "text": "När går tåget?",
+          "meaning": "기차는 언제 출발해요?",
+          "reading": ""
+        },
+        {
+          "who": "B",
+          "text": "Klockan tio.",
+          "meaning": "10시에요.",
+          "reading": ""
+        },
+        {
+          "who": "A",
+          "text": "Från vilket spår?",
+          "meaning": "몇 번 승강장에서 출발하나요?",
+          "reading": ""
+        },
+        {
+          "who": "B",
+          "text": "Från spår två.",
+          "meaning": "2번 승강장이에요.",
+          "reading": ""
+        }
+      ]
+    },
+    {
+      "id": "swedish-d06",
+      "title": "체크인",
+      "lines": [
+        {
+          "who": "A",
+          "text": "Jag har en bokning.",
+          "meaning": "예약했어요.",
+          "reading": ""
+        },
+        {
+          "who": "B",
+          "text": "Vad heter du?",
+          "meaning": "성함이 어떻게 되세요?",
+          "reading": ""
+        },
+        {
+          "who": "A",
+          "text": "Jag heter Min Kim.",
+          "meaning": "제 이름은 민 김이에요.",
+          "reading": ""
+        },
+        {
+          "who": "B",
+          "text": "Välkommen!",
+          "meaning": "환영합니다!",
+          "reading": ""
+        }
+      ]
+    },
+    {
+      "id": "swedish-d07",
+      "title": "천천히 부탁하기",
+      "lines": [
+        {
+          "who": "A",
+          "text": "Jag förstår inte.",
+          "meaning": "이해하지 못했어요.",
+          "reading": ""
+        },
+        {
+          "who": "B",
+          "text": "Ska jag säga det igen?",
+          "meaning": "다시 말해 드릴까요?",
+          "reading": ""
+        },
+        {
+          "who": "A",
+          "text": "Ja, lite långsammare, tack.",
+          "meaning": "네, 조금 천천히 부탁해요.",
+          "reading": ""
+        },
+        {
+          "who": "B",
+          "text": "Självklart.",
+          "meaning": "물론이에요.",
+          "reading": ""
+        }
+      ]
+    },
+    {
+      "id": "swedish-d08",
+      "title": "내일 약속",
+      "lines": [
+        {
+          "who": "A",
+          "text": "Har du tid imorgon?",
+          "meaning": "내일 시간 있어요?",
+          "reading": ""
+        },
+        {
+          "who": "B",
+          "text": "Ja, på eftermiddagen.",
+          "meaning": "네, 오후에요.",
+          "reading": ""
+        },
+        {
+          "who": "A",
+          "text": "Ska vi ta en fika?",
+          "meaning": "커피 한잔하며 쉴까요?",
+          "reading": ""
+        },
+        {
+          "who": "B",
+          "text": "Gärna! Vi ses imorgon.",
+          "meaning": "좋아요! 내일 봐요.",
+          "reading": ""
+        }
+      ]
+    }
+  ]
+}

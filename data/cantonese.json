@@ -1,0 +1,1069 @@
+{
+  "ko": "광둥어",
+  "native": "廣東話",
+  "locale": "zh-HK",
+  "accent": "#a65432",
+  "alphabet": "一二三四五六七八九十人大小口日月水火天中我你好早多食飲係唔謝見",
+  "special": "",
+  "country": "홍콩",
+  "intro": "번체자를 쓰고, 월병 표기로 소리와 성조를 익혀요.",
+  "sources": [
+    {
+      "label": "홍콩중문대 광둥어 학습 자료",
+      "url": "https://www.ilc.cuhk.edu.hk/en/chresources/indept_resources.aspx"
+    },
+    {
+      "label": "홍콩중문대 월병 표기 학습",
+      "url": "https://ling.cuhk.edu.hk/jyutpingteaching/typing_10weeks.pdf"
+    }
+  ],
+  "key": "cantonese",
+  "notes": [
+    {
+      "title": "월병 숫자는 성조",
+      "text": "월병(Jyutping)은 음절 뒤의 1~6으로 성조를 적습니다. 같은 철자라도 숫자가 달라지면 다른 말이 될 수 있습니다. 숫자를 빼지 않고 함께 읽으세요.",
+      "example": "si1 · si2 · si3 · si4 · si5 · si6"
+    },
+    {
+      "title": "성조의 높낮이",
+      "text": "홍콩 광둥어의 대표적인 설명에서 1은 높게 평평하게, 2는 올라가게, 3은 중간 높이, 4는 낮아지게, 5는 낮게 시작해 올라가게, 6은 낮게 평평하게 읽습니다. 실제 음성의 억양도 함께 들어 보세요.",
+      "example": "詩 si1 · 史 si2 · 試 si3 · 時 si4 · 市 si5 · 事 si6"
+    },
+    {
+      "title": "번체자와 구어체",
+      "text": "이 과정은 홍콩에서 쓰는 번체자와 광둥어 구어체를 씁니다. 我係…와 같은 표현은 보통화의 我是…와 표기·발음이 다릅니다.",
+      "example": "我係韓國人。 ngo5 hai6 hon4 gwok3 jan4"
+    },
+    {
+      "title": "감사 표현 두 가지",
+      "text": "작은 도움·서비스에는 唔該를, 선물이나 큰 호의에는 多謝를 주로 씁니다. 상황에 맞는 예문을 함께 외우세요.",
+      "example": "唔該 m4 goi1 / 多謝 do1 ze6"
+    },
+    {
+      "title": "긍정·부정으로 질문",
+      "text": "동사나 형용사를 긍정+부정으로 되풀이해 질문할 수 있습니다. 有冇, 係唔係, 識唔識 같은 꼴을 익히세요.",
+      "example": "有冇…？ jau5 mou5 / 係唔係？ hai6 m4 hai6"
+    },
+    {
+      "title": "위치는 喺",
+      "text": "있거나 위치한다는 말은 喺 hai2, …이다는 말은 係 hai6입니다. 모양과 성조가 모두 다릅니다.",
+      "example": "廁所喺邊度？ ci3 so2 hai2 bin1 dou6"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "cantonese-p001",
+      "topic": "greetings",
+      "text": "你好。",
+      "meaning": "안녕하세요.",
+      "reading": "nei5 hou2"
+    },
+    {
+      "id": "cantonese-p002",
+      "topic": "greetings",
+      "text": "早晨。",
+      "meaning": "좋은 아침이에요.",
+      "reading": "zou2 san4"
+    },
+    {
+      "id": "cantonese-p003",
+      "topic": "greetings",
+      "text": "你好嗎？",
+      "meaning": "잘 지내세요?",
+      "reading": "nei5 hou2 maa3"
+    },
+    {
+      "id": "cantonese-p004",
+      "topic": "greetings",
+      "text": "我幾好。",
+      "meaning": "저는 잘 지내요.",
+      "reading": "ngo5 gei2 hou2"
+    },
+    {
+      "id": "cantonese-p005",
+      "topic": "greetings",
+      "text": "再見。",
+      "meaning": "안녕히 가세요. / 안녕히 계세요.",
+      "reading": "zoi3 gin3"
+    },
+    {
+      "id": "cantonese-p006",
+      "topic": "greetings",
+      "text": "拜拜。",
+      "meaning": "잘 가요!",
+      "reading": "baai1 baai3"
+    },
+    {
+      "id": "cantonese-p007",
+      "topic": "greetings",
+      "text": "多謝。",
+      "meaning": "감사합니다. (선물·큰 호의에)",
+      "reading": "do1 ze6"
+    },
+    {
+      "id": "cantonese-p008",
+      "topic": "greetings",
+      "text": "唔該。",
+      "meaning": "감사합니다. / 실례합니다. (도움·서비스에)",
+      "reading": "m4 goi1"
+    },
+    {
+      "id": "cantonese-p009",
+      "topic": "greetings",
+      "text": "唔使客氣。",
+      "meaning": "천만에요.",
+      "reading": "m4 sai2 haak3 hei3"
+    },
+    {
+      "id": "cantonese-p010",
+      "topic": "greetings",
+      "text": "對唔住。",
+      "meaning": "죄송합니다.",
+      "reading": "deoi3 m4 zyu6"
+    },
+    {
+      "id": "cantonese-p011",
+      "topic": "greetings",
+      "text": "唔緊要。",
+      "meaning": "괜찮아요.",
+      "reading": "m4 gan2 jiu3"
+    },
+    {
+      "id": "cantonese-p012",
+      "topic": "introductions",
+      "text": "你叫咩名？",
+      "meaning": "이름이 뭐예요?",
+      "reading": "nei5 giu3 me1 meng2"
+    },
+    {
+      "id": "cantonese-p013",
+      "topic": "introductions",
+      "text": "我叫阿明。",
+      "meaning": "제 이름은 아밍이에요.",
+      "reading": "ngo5 giu3 aa3 ming4"
+    },
+    {
+      "id": "cantonese-p014",
+      "topic": "introductions",
+      "text": "好高興識你。",
+      "meaning": "만나서 반가워요.",
+      "reading": "hou2 gou1 hing3 sik1 nei5"
+    },
+    {
+      "id": "cantonese-p015",
+      "topic": "introductions",
+      "text": "你係邊度人？",
+      "meaning": "어디 출신이에요?",
+      "reading": "nei5 hai6 bin1 dou6 jan4"
+    },
+    {
+      "id": "cantonese-p016",
+      "topic": "introductions",
+      "text": "我係韓國人。",
+      "meaning": "저는 한국 사람이에요.",
+      "reading": "ngo5 hai6 hon4 gwok3 jan4"
+    },
+    {
+      "id": "cantonese-p017",
+      "topic": "introductions",
+      "text": "我學緊廣東話。",
+      "meaning": "저는 광둥어를 배우고 있어요.",
+      "reading": "ngo5 hok6 gan2 gwong2 dung1 waa2"
+    },
+    {
+      "id": "cantonese-p018",
+      "topic": "introductions",
+      "text": "我識講少少廣東話。",
+      "meaning": "광둥어를 조금 할 줄 알아요.",
+      "reading": "ngo5 sik1 gong2 siu2 siu2 gwong2 dung1 waa2"
+    },
+    {
+      "id": "cantonese-p019",
+      "topic": "introductions",
+      "text": "你識唔識講英文？",
+      "meaning": "영어 할 줄 아세요?",
+      "reading": "nei5 sik1 m4 sik1 gong2 jing1 man4"
+    },
+    {
+      "id": "cantonese-p020",
+      "topic": "essentials",
+      "text": "係。",
+      "meaning": "네. / 맞아요.",
+      "reading": "hai6"
+    },
+    {
+      "id": "cantonese-p021",
+      "topic": "essentials",
+      "text": "唔係。",
+      "meaning": "아니에요.",
+      "reading": "m4 hai6"
+    },
+    {
+      "id": "cantonese-p022",
+      "topic": "essentials",
+      "text": "好。",
+      "meaning": "좋아요.",
+      "reading": "hou2"
+    },
+    {
+      "id": "cantonese-p023",
+      "topic": "essentials",
+      "text": "唔好。",
+      "meaning": "하지 마세요. / 싫어요.",
+      "reading": "m4 hou2"
+    },
+    {
+      "id": "cantonese-p024",
+      "topic": "essentials",
+      "text": "我唔明。",
+      "meaning": "이해하지 못했어요.",
+      "reading": "ngo5 m4 ming4"
+    },
+    {
+      "id": "cantonese-p025",
+      "topic": "essentials",
+      "text": "請你再講一次。",
+      "meaning": "다시 한 번 말씀해 주세요.",
+      "reading": "cing2 nei5 zoi3 gong2 jat1 ci3"
+    },
+    {
+      "id": "cantonese-p026",
+      "topic": "essentials",
+      "text": "唔該講慢啲。",
+      "meaning": "조금 천천히 말씀해 주세요.",
+      "reading": "m4 goi1 gong2 maan6 di1"
+    },
+    {
+      "id": "cantonese-p027",
+      "topic": "essentials",
+      "text": "呢個係咩意思？",
+      "meaning": "이것은 무슨 뜻이에요?",
+      "reading": "ni1 go3 hai6 me1 ji3 si1"
+    },
+    {
+      "id": "cantonese-p028",
+      "topic": "essentials",
+      "text": "廣東話點講？",
+      "meaning": "광둥어로 어떻게 말해요?",
+      "reading": "gwong2 dung1 waa2 dim2 gong2"
+    },
+    {
+      "id": "cantonese-p029",
+      "topic": "food",
+      "text": "唔該，一杯咖啡。",
+      "meaning": "커피 한 잔 주세요.",
+      "reading": "m4 goi1 jat1 bui1 gaa3 fe1"
+    },
+    {
+      "id": "cantonese-p030",
+      "topic": "food",
+      "text": "唔該，一杯茶。",
+      "meaning": "차 한 잔 주세요.",
+      "reading": "m4 goi1 jat1 bui1 caa4"
+    },
+    {
+      "id": "cantonese-p031",
+      "topic": "food",
+      "text": "唔該，俾個餐牌我。",
+      "meaning": "메뉴판 주세요.",
+      "reading": "m4 goi1 bei2 go3 caan1 paai2 ngo5"
+    },
+    {
+      "id": "cantonese-p032",
+      "topic": "food",
+      "text": "我唔食肉。",
+      "meaning": "저는 고기를 먹지 않아요.",
+      "reading": "ngo5 m4 sik6 juk6"
+    },
+    {
+      "id": "cantonese-p033",
+      "topic": "food",
+      "text": "唔落奶，唔該。",
+      "meaning": "우유는 넣지 말아 주세요.",
+      "reading": "m4 lok6 naai5 m4 goi1"
+    },
+    {
+      "id": "cantonese-p034",
+      "topic": "food",
+      "text": "唔該，一杯水。",
+      "meaning": "물 한 잔 주세요.",
+      "reading": "m4 goi1 jat1 bui1 seoi2"
+    },
+    {
+      "id": "cantonese-p035",
+      "topic": "food",
+      "text": "好好食。",
+      "meaning": "정말 맛있어요.",
+      "reading": "hou2 hou2 sik6"
+    },
+    {
+      "id": "cantonese-p036",
+      "topic": "food",
+      "text": "唔該，埋單。",
+      "meaning": "계산해 주세요.",
+      "reading": "m4 goi1 maai4 daan1"
+    },
+    {
+      "id": "cantonese-p037",
+      "topic": "transport",
+      "text": "車站喺邊度？",
+      "meaning": "정류장 / 역은 어디예요?",
+      "reading": "ce1 zaam6 hai2 bin1 dou6"
+    },
+    {
+      "id": "cantonese-p038",
+      "topic": "transport",
+      "text": "唔該，一張去中環嘅飛。",
+      "meaning": "중완행 표 한 장 주세요.",
+      "reading": "m4 goi1 jat1 zoeng1 heoi3 zung1 waan4 ge3 fei1"
+    },
+    {
+      "id": "cantonese-p039",
+      "topic": "transport",
+      "text": "幾點開車？",
+      "meaning": "몇 시에 출발해요?",
+      "reading": "gei2 dim2 hoi1 ce1"
+    },
+    {
+      "id": "cantonese-p040",
+      "topic": "transport",
+      "text": "邊個月台？",
+      "meaning": "어느 승강장인가요?",
+      "reading": "bin1 go3 jyut6 toi4"
+    },
+    {
+      "id": "cantonese-p041",
+      "topic": "transport",
+      "text": "呢架巴士去唔去中環？",
+      "meaning": "이 버스는 중완에 가나요?",
+      "reading": "ni1 gaa3 baa1 si2 heoi3 m4 heoi3 zung1 waan4"
+    },
+    {
+      "id": "cantonese-p042",
+      "topic": "transport",
+      "text": "我想喺呢度落車。",
+      "meaning": "여기서 내리고 싶어요.",
+      "reading": "ngo5 soeng2 hai2 ni1 dou6 lok6 ce1"
+    },
+    {
+      "id": "cantonese-p043",
+      "topic": "transport",
+      "text": "要幾耐？",
+      "meaning": "얼마나 걸려요?",
+      "reading": "jiu3 gei2 noi6"
+    },
+    {
+      "id": "cantonese-p044",
+      "topic": "shopping",
+      "text": "呢個幾多錢？",
+      "meaning": "이것은 얼마예요?",
+      "reading": "ni1 go3 gei2 do1 cin2"
+    },
+    {
+      "id": "cantonese-p045",
+      "topic": "shopping",
+      "text": "可唔可以用信用卡？",
+      "meaning": "신용카드를 쓸 수 있나요?",
+      "reading": "ho2 m4 ho2 ji5 jung6 seon3 jung6 kaat1"
+    },
+    {
+      "id": "cantonese-p046",
+      "topic": "shopping",
+      "text": "有冇細啲嘅？",
+      "meaning": "더 작은 것이 있나요?",
+      "reading": "jau5 mou5 sai3 di1 ge3"
+    },
+    {
+      "id": "cantonese-p047",
+      "topic": "shopping",
+      "text": "我睇吓先。",
+      "meaning": "먼저 좀 구경할게요.",
+      "reading": "ngo5 tai2 haa5 sin1"
+    },
+    {
+      "id": "cantonese-p048",
+      "topic": "shopping",
+      "text": "我要呢個。",
+      "meaning": "이것으로 할게요.",
+      "reading": "ngo5 jiu3 ni1 go3"
+    },
+    {
+      "id": "cantonese-p049",
+      "topic": "shopping",
+      "text": "唔該，俾張單我。",
+      "meaning": "영수증 주세요.",
+      "reading": "m4 goi1 bei2 zoeng1 daan1 ngo5"
+    },
+    {
+      "id": "cantonese-p050",
+      "topic": "directions",
+      "text": "廁所喺邊度？",
+      "meaning": "화장실이 어디예요?",
+      "reading": "ci3 so2 hai2 bin1 dou6"
+    },
+    {
+      "id": "cantonese-p051",
+      "topic": "directions",
+      "text": "遠唔遠？",
+      "meaning": "먼가요?",
+      "reading": "jyun5 m4 jyun5"
+    },
+    {
+      "id": "cantonese-p052",
+      "topic": "directions",
+      "text": "一直行。",
+      "meaning": "곧장 가세요.",
+      "reading": "jat1 zik6 haang4"
+    },
+    {
+      "id": "cantonese-p053",
+      "topic": "directions",
+      "text": "轉左。",
+      "meaning": "왼쪽으로 도세요.",
+      "reading": "zyun3 zo2"
+    },
+    {
+      "id": "cantonese-p054",
+      "topic": "directions",
+      "text": "轉右。",
+      "meaning": "오른쪽으로 도세요.",
+      "reading": "zyun3 jau6"
+    },
+    {
+      "id": "cantonese-p055",
+      "topic": "directions",
+      "text": "唔該，喺地圖指俾我睇。",
+      "meaning": "지도에서 가리켜 주세요.",
+      "reading": "m4 goi1 hai2 dei6 tou4 zi2 bei2 ngo5 tai2"
+    },
+    {
+      "id": "cantonese-p056",
+      "topic": "stay",
+      "text": "我訂咗房。",
+      "meaning": "방을 예약했어요.",
+      "reading": "ngo5 deng6 zo2 fong2"
+    },
+    {
+      "id": "cantonese-p057",
+      "topic": "stay",
+      "text": "我想辦理入住。",
+      "meaning": "체크인하고 싶어요.",
+      "reading": "ngo5 soeng2 baan6 lei5 jap6 zyu6"
+    },
+    {
+      "id": "cantonese-p058",
+      "topic": "stay",
+      "text": "Wi-Fi密碼係咩？",
+      "meaning": "와이파이 비밀번호가 뭔가요?",
+      "reading": "wai1 fai1 mat6 maa5 hai6 me1"
+    },
+    {
+      "id": "cantonese-p059",
+      "topic": "stay",
+      "text": "幾點食早餐？",
+      "meaning": "아침 식사는 몇 시예요?",
+      "reading": "gei2 dim2 sik6 zou2 caan1"
+    },
+    {
+      "id": "cantonese-p060",
+      "topic": "stay",
+      "text": "我住兩晚。",
+      "meaning": "이틀 밤 머물 거예요.",
+      "reading": "ngo5 zyu6 loeng5 maan5"
+    },
+    {
+      "id": "cantonese-p061",
+      "topic": "help",
+      "text": "我需要幫手。",
+      "meaning": "도움이 필요해요.",
+      "reading": "ngo5 seoi1 jiu3 bong1 sau2"
+    },
+    {
+      "id": "cantonese-p062",
+      "topic": "help",
+      "text": "我蕩失路。",
+      "meaning": "길을 잃었어요.",
+      "reading": "ngo5 dong6 sat1 lou6"
+    },
+    {
+      "id": "cantonese-p063",
+      "topic": "help",
+      "text": "我唔舒服。",
+      "meaning": "몸이 좋지 않아요.",
+      "reading": "ngo5 m4 syu1 fuk6"
+    },
+    {
+      "id": "cantonese-p064",
+      "topic": "help",
+      "text": "藥房喺邊度？",
+      "meaning": "약국이 어디예요?",
+      "reading": "joek6 fong4 hai2 bin1 dou6"
+    },
+    {
+      "id": "cantonese-p065",
+      "topic": "help",
+      "text": "唔該，叫救護車。",
+      "meaning": "구급차를 불러 주세요.",
+      "reading": "m4 goi1 giu3 gau3 wu6 ce1"
+    },
+    {
+      "id": "cantonese-p066",
+      "topic": "time",
+      "text": "而家幾點？",
+      "meaning": "지금 몇 시예요?",
+      "reading": "ji4 gaa1 gei2 dim2"
+    },
+    {
+      "id": "cantonese-p067",
+      "topic": "time",
+      "text": "我今日有時間。",
+      "meaning": "오늘은 시간이 있어요.",
+      "reading": "ngo5 gam1 jat6 jau5 si4 gaan3"
+    },
+    {
+      "id": "cantonese-p068",
+      "topic": "time",
+      "text": "聽日見。",
+      "meaning": "내일 봐요.",
+      "reading": "ting1 jat6 gin3"
+    },
+    {
+      "id": "cantonese-p069",
+      "topic": "time",
+      "text": "落雨喇。",
+      "meaning": "비가 오네요.",
+      "reading": "lok6 jyu5 laa3"
+    },
+    {
+      "id": "cantonese-p070",
+      "topic": "time",
+      "text": "好凍。",
+      "meaning": "추워요.",
+      "reading": "hou2 dung3"
+    }
+  ],
+  "words": [
+    {
+      "id": "cantonese-w001",
+      "topic": "words",
+      "text": "水",
+      "meaning": "물",
+      "reading": "seoi2"
+    },
+    {
+      "id": "cantonese-w002",
+      "topic": "words",
+      "text": "茶",
+      "meaning": "차",
+      "reading": "caa4"
+    },
+    {
+      "id": "cantonese-w003",
+      "topic": "words",
+      "text": "咖啡",
+      "meaning": "커피",
+      "reading": "gaa3 fe1"
+    },
+    {
+      "id": "cantonese-w004",
+      "topic": "words",
+      "text": "牛奶",
+      "meaning": "우유",
+      "reading": "ngau4 naai5"
+    },
+    {
+      "id": "cantonese-w005",
+      "topic": "words",
+      "text": "麵包",
+      "meaning": "빵",
+      "reading": "min6 baau1"
+    },
+    {
+      "id": "cantonese-w006",
+      "topic": "words",
+      "text": "蘋果",
+      "meaning": "사과",
+      "reading": "ping4 gwo2"
+    },
+    {
+      "id": "cantonese-w007",
+      "topic": "words",
+      "text": "飯",
+      "meaning": "밥",
+      "reading": "faan6"
+    },
+    {
+      "id": "cantonese-w008",
+      "topic": "words",
+      "text": "屋企",
+      "meaning": "집",
+      "reading": "uk1 kei2"
+    },
+    {
+      "id": "cantonese-w009",
+      "topic": "words",
+      "text": "學校",
+      "meaning": "학교",
+      "reading": "hok6 haau6"
+    },
+    {
+      "id": "cantonese-w010",
+      "topic": "words",
+      "text": "書",
+      "meaning": "책",
+      "reading": "syu1"
+    },
+    {
+      "id": "cantonese-w011",
+      "topic": "words",
+      "text": "筆",
+      "meaning": "펜 / 붓",
+      "reading": "bat1"
+    },
+    {
+      "id": "cantonese-w012",
+      "topic": "words",
+      "text": "單車",
+      "meaning": "자전거",
+      "reading": "daan1 ce1"
+    },
+    {
+      "id": "cantonese-w013",
+      "topic": "words",
+      "text": "火車",
+      "meaning": "기차",
+      "reading": "fo2 ce1"
+    },
+    {
+      "id": "cantonese-w014",
+      "topic": "words",
+      "text": "巴士",
+      "meaning": "버스",
+      "reading": "baa1 si2"
+    },
+    {
+      "id": "cantonese-w015",
+      "topic": "words",
+      "text": "車站",
+      "meaning": "역 / 정류장",
+      "reading": "ce1 zaam6"
+    },
+    {
+      "id": "cantonese-w016",
+      "topic": "words",
+      "text": "朋友",
+      "meaning": "친구",
+      "reading": "pang4 jau5"
+    },
+    {
+      "id": "cantonese-w017",
+      "topic": "words",
+      "text": "小朋友",
+      "meaning": "아이",
+      "reading": "siu2 pang4 jau5"
+    },
+    {
+      "id": "cantonese-w018",
+      "topic": "words",
+      "text": "香港",
+      "meaning": "홍콩",
+      "reading": "hoeng1 gong2"
+    },
+    {
+      "id": "cantonese-w019",
+      "topic": "words",
+      "text": "廣東話",
+      "meaning": "광둥어",
+      "reading": "gwong2 dung1 waa2"
+    },
+    {
+      "id": "cantonese-w020",
+      "topic": "words",
+      "text": "今日",
+      "meaning": "오늘",
+      "reading": "gam1 jat6"
+    },
+    {
+      "id": "cantonese-w021",
+      "topic": "words",
+      "text": "聽日",
+      "meaning": "내일",
+      "reading": "ting1 jat6"
+    },
+    {
+      "id": "cantonese-w022",
+      "topic": "words",
+      "text": "左",
+      "meaning": "왼쪽",
+      "reading": "zo2"
+    },
+    {
+      "id": "cantonese-w023",
+      "topic": "words",
+      "text": "右",
+      "meaning": "오른쪽",
+      "reading": "jau6"
+    },
+    {
+      "id": "cantonese-w024",
+      "topic": "words",
+      "text": "大",
+      "meaning": "큰",
+      "reading": "daai6"
+    },
+    {
+      "id": "cantonese-w025",
+      "topic": "words",
+      "text": "細",
+      "meaning": "작은",
+      "reading": "sai3"
+    },
+    {
+      "id": "cantonese-w026",
+      "topic": "words",
+      "text": "好",
+      "meaning": "좋은",
+      "reading": "hou2"
+    },
+    {
+      "id": "cantonese-w027",
+      "topic": "words",
+      "text": "食飯",
+      "meaning": "밥을 먹다",
+      "reading": "sik6 faan6"
+    },
+    {
+      "id": "cantonese-w028",
+      "topic": "words",
+      "text": "飲水",
+      "meaning": "물을 마시다",
+      "reading": "jam2 seoi2"
+    },
+    {
+      "id": "cantonese-w029",
+      "topic": "words",
+      "text": "一",
+      "meaning": "하나",
+      "reading": "jat1"
+    },
+    {
+      "id": "cantonese-w030",
+      "topic": "words",
+      "text": "二",
+      "meaning": "둘",
+      "reading": "ji6"
+    },
+    {
+      "id": "cantonese-w031",
+      "topic": "words",
+      "text": "三",
+      "meaning": "셋",
+      "reading": "saam1"
+    },
+    {
+      "id": "cantonese-w032",
+      "topic": "words",
+      "text": "四",
+      "meaning": "넷",
+      "reading": "sei3"
+    },
+    {
+      "id": "cantonese-w033",
+      "topic": "words",
+      "text": "五",
+      "meaning": "다섯",
+      "reading": "ng5"
+    },
+    {
+      "id": "cantonese-w034",
+      "topic": "words",
+      "text": "六",
+      "meaning": "여섯",
+      "reading": "luk6"
+    },
+    {
+      "id": "cantonese-w035",
+      "topic": "words",
+      "text": "七",
+      "meaning": "일곱",
+      "reading": "cat1"
+    },
+    {
+      "id": "cantonese-w036",
+      "topic": "words",
+      "text": "八",
+      "meaning": "여덟",
+      "reading": "baat3"
+    },
+    {
+      "id": "cantonese-w037",
+      "topic": "words",
+      "text": "九",
+      "meaning": "아홉",
+      "reading": "gau2"
+    },
+    {
+      "id": "cantonese-w038",
+      "topic": "words",
+      "text": "十",
+      "meaning": "열",
+      "reading": "sap6"
+    },
+    {
+      "id": "cantonese-w039",
+      "topic": "words",
+      "text": "早晨",
+      "meaning": "좋은 아침",
+      "reading": "zou2 san4"
+    },
+    {
+      "id": "cantonese-w040",
+      "topic": "words",
+      "text": "再見",
+      "meaning": "다시 만나요",
+      "reading": "zoi3 gin3"
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "cantonese-d01",
+      "title": "첫 만남",
+      "lines": [
+        {
+          "who": "A",
+          "text": "你好。",
+          "meaning": "안녕하세요.",
+          "reading": "nei5 hou2"
+        },
+        {
+          "who": "B",
+          "text": "你好，你叫咩名？",
+          "meaning": "안녕하세요. 이름이 뭐예요?",
+          "reading": "nei5 hou2 nei5 giu3 me1 meng2"
+        },
+        {
+          "who": "A",
+          "text": "我叫阿明。",
+          "meaning": "제 이름은 아밍이에요.",
+          "reading": "ngo5 giu3 aa3 ming4"
+        },
+        {
+          "who": "B",
+          "text": "好高興識你。",
+          "meaning": "만나서 반가워요.",
+          "reading": "hou2 gou1 hing3 sik1 nei5"
+        }
+      ]
+    },
+    {
+      "id": "cantonese-d02",
+      "title": "차 주문",
+      "lines": [
+        {
+          "who": "A",
+          "text": "飲咩呀？",
+          "meaning": "무엇을 마실래요?",
+          "reading": "jam2 me1 aa3"
+        },
+        {
+          "who": "B",
+          "text": "唔該，一杯茶。",
+          "meaning": "차 한 잔 주세요.",
+          "reading": "m4 goi1 jat1 bui1 caa4"
+        },
+        {
+          "who": "A",
+          "text": "熱嘅定凍嘅？",
+          "meaning": "뜨거운 것으로요, 차가운 것으로요?",
+          "reading": "jit6 ge3 ding6 dung3 ge3"
+        },
+        {
+          "who": "B",
+          "text": "熱嘅，唔該。",
+          "meaning": "뜨거운 것으로 주세요.",
+          "reading": "jit6 ge3 m4 goi1"
+        }
+      ]
+    },
+    {
+      "id": "cantonese-d03",
+      "title": "길 묻기",
+      "lines": [
+        {
+          "who": "A",
+          "text": "唔該，車站喺邊度？",
+          "meaning": "실례합니다. 역이 어디예요?",
+          "reading": "m4 goi1 ce1 zaam6 hai2 bin1 dou6"
+        },
+        {
+          "who": "B",
+          "text": "一直行，轉左。",
+          "meaning": "곧장 가서 왼쪽으로 도세요.",
+          "reading": "jat1 zik6 haang4 zyun3 zo2"
+        },
+        {
+          "who": "A",
+          "text": "遠唔遠？",
+          "meaning": "먼가요?",
+          "reading": "jyun5 m4 jyun5"
+        },
+        {
+          "who": "B",
+          "text": "唔遠。",
+          "meaning": "멀지 않아요.",
+          "reading": "m4 jyun5"
+        }
+      ]
+    },
+    {
+      "id": "cantonese-d04",
+      "title": "계산하기",
+      "lines": [
+        {
+          "who": "A",
+          "text": "呢個幾多錢？",
+          "meaning": "이것은 얼마예요?",
+          "reading": "ni1 go3 gei2 do1 cin2"
+        },
+        {
+          "who": "B",
+          "text": "二十蚊。",
+          "meaning": "20달러예요.",
+          "reading": "ji6 sap6 man1"
+        },
+        {
+          "who": "A",
+          "text": "可唔可以用信用卡？",
+          "meaning": "신용카드를 쓸 수 있나요?",
+          "reading": "ho2 m4 ho2 ji5 jung6 seon3 jung6 kaat1"
+        },
+        {
+          "who": "B",
+          "text": "可以。",
+          "meaning": "가능해요.",
+          "reading": "ho2 ji5"
+        }
+      ]
+    },
+    {
+      "id": "cantonese-d05",
+      "title": "버스 확인",
+      "lines": [
+        {
+          "who": "A",
+          "text": "呢架巴士去唔去中環？",
+          "meaning": "이 버스는 중완에 가나요?",
+          "reading": "ni1 gaa3 baa1 si2 heoi3 m4 heoi3 zung1 waan4"
+        },
+        {
+          "who": "B",
+          "text": "去。",
+          "meaning": "가요.",
+          "reading": "heoi3"
+        },
+        {
+          "who": "A",
+          "text": "要幾耐？",
+          "meaning": "얼마나 걸려요?",
+          "reading": "jiu3 gei2 noi6"
+        },
+        {
+          "who": "B",
+          "text": "大概十分鐘。",
+          "meaning": "약 10분이에요.",
+          "reading": "daai6 koi3 sap6 fan1 zung1"
+        }
+      ]
+    },
+    {
+      "id": "cantonese-d06",
+      "title": "감사 표현",
+      "lines": [
+        {
+          "who": "A",
+          "text": "呢份禮物送俾你。",
+          "meaning": "이 선물을 드릴게요.",
+          "reading": "ni1 fan6 lai5 mat6 sung3 bei2 nei5"
+        },
+        {
+          "who": "B",
+          "text": "多謝。",
+          "meaning": "감사합니다.",
+          "reading": "do1 ze6"
+        },
+        {
+          "who": "A",
+          "text": "唔使客氣。",
+          "meaning": "천만에요.",
+          "reading": "m4 sai2 haak3 hei3"
+        },
+        {
+          "who": "B",
+          "text": "我好鍾意。",
+          "meaning": "정말 마음에 들어요.",
+          "reading": "ngo5 hou2 zung1 ji3"
+        }
+      ]
+    },
+    {
+      "id": "cantonese-d07",
+      "title": "천천히 부탁하기",
+      "lines": [
+        {
+          "who": "A",
+          "text": "我唔明。",
+          "meaning": "이해하지 못했어요.",
+          "reading": "ngo5 m4 ming4"
+        },
+        {
+          "who": "B",
+          "text": "你想我再講一次？",
+          "meaning": "다시 한 번 말해 줄까요?",
+          "reading": "nei5 soeng2 ngo5 zoi3 gong2 jat1 ci3"
+        },
+        {
+          "who": "A",
+          "text": "係，唔該講慢啲。",
+          "meaning": "네. 천천히 부탁해요.",
+          "reading": "hai6 m4 goi1 gong2 maan6 di1"
+        },
+        {
+          "who": "B",
+          "text": "好。",
+          "meaning": "좋아요.",
+          "reading": "hou2"
+        }
+      ]
+    },
+    {
+      "id": "cantonese-d08",
+      "title": "내일 인사",
+      "lines": [
+        {
+          "who": "A",
+          "text": "你聽日有冇時間？",
+          "meaning": "내일 시간 있어요?",
+          "reading": "nei5 ting1 jat6 jau5 mou5 si4 gaan3"
+        },
+        {
+          "who": "B",
+          "text": "有。",
+          "meaning": "있어요.",
+          "reading": "jau5"
+        },
+        {
+          "who": "A",
+          "text": "聽日見。",
+          "meaning": "내일 봐요.",
+          "reading": "ting1 jat6 gin3"
+        },
+        {
+          "who": "B",
+          "text": "好，拜拜。",
+          "meaning": "좋아요. 잘 가요.",
+          "reading": "hou2 baai1 baai3"
+        }
+      ]
+    }
+  ]
+}

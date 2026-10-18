@@ -1,0 +1,11 @@
+import assert from 'node:assert/strict';
+import fs from 'node:fs/promises';
+import {chromium} from 'playwright';
+const origin=process.env.LANGUAGE_UI_ORIGIN||'http://127.0.0.1:4173',local=process.env.LANGUAGE_UI_PROFILE!=='pages';
+const browser=await chromium.launch({headless:true,args:['--use-fake-device-for-media-stream','--use-fake-ui-for-media-stream']});
+try{
+ const context=await browser.newContext({permissions:['microphone']});const source=await fs.readFile(local?'/home/kms/dev/33modeling-local-arcade/server.mjs':'/home/kms/dev/33modeling-site/_worker.js','utf8'),pw=source.match(local?/AUTH_PASSWORD = process.env.ARCADE_PASSWORD \|\| '([^']+)'/:/const PASSWORD = "([^"]+)"/)[1];assert.ok((await context.request.post(origin+'/',{form:{pw}})).ok());
+ await context.addInitScript(()=>{window.testStreams=[];const original=navigator.mediaDevices.getUserMedia.bind(navigator.mediaDevices);navigator.mediaDevices.getUserMedia=async options=>{const stream=await original(options);testStreams.push(stream);return stream;};});
+ const page=await context.newPage(),errors=[];page.on('pageerror',e=>errors.push(e.message));await page.goto(origin+(local?'/games/':'/')+'dutch-beginner/');await page.locator('[data-tab="typing"]').click();await page.locator('[data-action="record"]').click();await page.waitForFunction(()=>document.querySelector('[data-action="record"]').textContent==='녹음 중지');await page.waitForTimeout(300);await page.locator('[data-action="record"]').click();await page.locator('#recordPlayer').waitFor();assert.match(await page.locator('#recordPlayer').getAttribute('src'),/^blob:/);assert.ok(await page.evaluate(()=>testStreams.every(s=>s.getTracks().every(t=>t.readyState==='ended'))));
+ await page.locator('[data-action="record"]').click();await page.waitForFunction(()=>document.querySelector('[data-action="record"]').textContent==='녹음 중지');await page.locator('[data-tab="phrases"]').click();await page.waitForFunction(()=>testStreams.every(s=>s.getTracks().every(t=>t.readyState==='ended')));assert.equal(await page.locator('#recordPlayer').count(),0);assert.deepEqual(errors,[]);console.log('PASS recording with a browser fake microphone: saved local playback, tracks stopped on stop and navigation, no audio uploaded.');
+}finally{await browser.close();}
