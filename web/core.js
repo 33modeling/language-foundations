@@ -6,16 +6,28 @@ export function gradeReview(previous,known,now=Date.now()){
  const step=known?Math.min(5,(previous?.step||0)+1):0;
  return {step,count:(previous?.count||0)+1,last:now,due:now+(known?[0,1,3,7,14,30][step]*DAY:10*60000)};
 }
-export function validateBackup(input,{language,mode,ids}){
+export function deduplicateItems(items,locale){
+ const unique=[],byText=new Map(),aliases={};
+ for(const original of items){
+  const text=original.text.normalize('NFC').toLocaleLowerCase(locale).trim().replace(/\s+/gu,' ')+'\0'+original.meaning.normalize('NFC').trim(),existing=byText.get(text);
+  if(existing){aliases[original.id]=existing.id;existing.topics=[...new Set([...(existing.topics||[existing.topic]),...(original.topics||[original.topic])])];}
+  else{const item={...original};unique.push(item);byText.set(text,item);}
+ }
+ return {items:unique,aliases};
+}
+export function validateBackup(input,{language,mode,ids,aliases={}}){
  if(!input||input.schema!=='language-foundations/v1'||input.language!==language||input.mode!==mode)throw Error('같은 언어·과정에서 내보낸 학습 기록을 선택하세요.');
  if(!input.progress||typeof input.progress!=='object'||Array.isArray(input.progress)||!Array.isArray(input.favorites))throw Error('학습 기록 형식을 확인하세요.');
  const progress={};
  for(const [id,row] of Object.entries(input.progress)){
-  if(!ids.has(id))continue;
-  if(!row||!['step','count','last','due'].every(k=>Number.isFinite(row[k]))||row.step<0||row.step>5||!Number.isInteger(row.step)||row.count<0||!Number.isInteger(row.count)||row.last<0||row.due<0)throw Error('복습 기록의 숫자가 올바르지 않습니다.');
-  progress[id]={step:row.step,count:row.count,last:row.last,due:row.due};
+  const canonical=ids.has(id)?id:Object.hasOwn(aliases,id)&&aliases[id];
+  if(!canonical||!ids.has(canonical))continue;
+  if(!row||!['step','count','last','due'].every(k=>Number.isFinite(row[k]))||row.step<0||row.step>5||!Number.isInteger(row.step)||row.count<0||!Number.isSafeInteger(row.count)||row.last<0||row.due<0||row.last>8640000000000000||row.due>8640000000000000)throw Error('복습 기록의 숫자가 올바르지 않습니다.');
+  const previous=progress[canonical],latest=previous?.last>row.last?previous:row;
+  progress[canonical]={step:latest.step,count:row.count+(previous?.count||0),last:latest.last,due:latest.due};
+  if(!Number.isSafeInteger(progress[canonical].count))throw Error('복습 기록의 숫자가 올바르지 않습니다.');
  }
- return {progress,favorites:[...new Set(input.favorites.filter(id=>ids.has(id)))]};
+ return {progress,favorites:[...new Set(input.favorites.map(id=>ids.has(id)?id:Object.hasOwn(aliases,id)&&aliases[id]).filter(id=>ids.has(id)))]};
 }
 export function selectVoice(voices,locale){
  const target=locale.toLowerCase();

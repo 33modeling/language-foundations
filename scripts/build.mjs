@@ -2,6 +2,7 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 import crypto from 'node:crypto';
 import {createRequire} from 'node:module';
+import {deduplicateItems} from '../web/core.js';
 const require=createRequire(import.meta.url),{glyph}=require('./latin-glyphs.cjs'),root=path.resolve(import.meta.dirname,'..');
 const chars={一:['jat1','하나'],二:['ji6','둘'],三:['saam1','셋'],四:['sei3','넷'],五:['ng5','다섯'],六:['luk6','여섯'],七:['cat1','일곱'],八:['baat3','여덟'],九:['gau2','아홉'],十:['sap6','열'],人:['jan4','사람'],大:['daai6','큰'],小:['siu2','작은'],口:['hau2','입'],日:['jat6','해 / 날'],月:['jyut6','달'],水:['seoi2','물'],火:['fo2','불'],天:['tin1','하늘'],中:['zung1','가운데'],我:['ngo5','나'],你:['nei5','너'],好:['hou2','좋다'],早:['zou2','이르다'],多:['do1','많다'],食:['sik6','먹다'],飲:['jam2','마시다'],係:['hai6','…이다'],唔:['m4','…하지 않다'],謝:['ze6','감사하다'],見:['gin3','보다 / 만나다']};
 const template=await fs.readFile(path.join(root,'web/index.html'),'utf8');
@@ -9,6 +10,8 @@ await fs.rm(path.join(root,'dist'),{recursive:true,force:true});
 const catalog=[];
 for(const language of ['indonesian','cantonese','dutch','polish','swedish']){
  const data=JSON.parse(await fs.readFile(path.join(root,'data',language+'.json'),'utf8'));
+ const phrases=deduplicateItems(data.phrases,data.locale),words=deduplicateItems(data.words,data.locale);
+ data.phrases=phrases.items;data.words=words.items;data.idAliases={...phrases.aliases,...words.aliases};
  data.letters=[];
  for(const char of data.alphabet){data.letters.push({id:language+'-letter-'+char.codePointAt(0),text:char,meaning:chars[char]?.[1]||'소문자 '+char,reading:chars[char]?.[0]||'',topic:'letters'});if(language!=='cantonese')data.letters.push({id:language+'-letter-'+char.toUpperCase().codePointAt(0),text:char.toUpperCase(),meaning:'대문자 '+char.toUpperCase(),reading:'',topic:'letters'});}
  const glyphs=language==='cantonese'?JSON.parse(await fs.readFile(path.join(root,'assets/cantonese-strokes.json'),'utf8')):{};
