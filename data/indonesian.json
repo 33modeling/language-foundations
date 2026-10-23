@@ -32,7 +32,7 @@
     },
     {
       "title": "tidak와 bukan",
-      "text": "동사·형용사의 부정에는 보통 tidak, 명사 확인의 부정에는 보통 bukan을 씁니다.",
+      "text": "동사·형용사의 부정에는 보통 tidak, 명사를 부정할 때는 보통 bukan을 씁니다. Saya tidak mengerti.에서는 이해하는 행동을, Saya bukan guru.에서는 교사라는 신분을 부정합니다. 두 문장의 부정어를 가리고 어떤 말을 부정하는지 먼저 말해 보세요.",
       "example": "Saya tidak mengerti. / Saya bukan guru."
     },
     {
@@ -51,7 +51,7 @@
       "id": "indonesian-basics-p1",
       "topic": "basics",
       "text": "Halo.",
-      "meaning": "안녕하세요. (가장 만능 인사)",
+      "meaning": "안녕하세요. (기본 인사)",
       "reading": "할로"
     },
     {

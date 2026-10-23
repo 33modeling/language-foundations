@@ -21,7 +21,7 @@
   "notes": [
     {
       "title": "ij는 i와 j를 함께",
-      "text": "ij는 두 글자로 적는 모음 결합입니다. 단어 첫머리를 대문자로 적을 때는 두 글자를 함께 IJ로 씁니다. y로 바꾸지 않습니다.",
+      "text": "ij는 두 글자로 적는 모음 결합입니다. 단어 첫머리를 대문자로 적을 때는 두 글자를 함께 IJ로 씁니다. ijs를 가리고 직접 써 본 뒤 첫 두 글자가 IJ인지 확인하세요. y 한 글자로 바꾸지 않습니다.",
       "example": "ijs → IJs / IJsselmeer"
     },
     {
@@ -36,7 +36,7 @@
     },
     {
       "title": "평서문의 동사 위치",
-      "text": "기본 평서문에서는 활용된 동사가 두 번째 문장 성분 자리에 옵니다. 시간 표현을 앞에 두면 주어가 동사 뒤로 갑니다.",
+      "text": "기본 평서문에서는 활용된 동사가 두 번째 문장 성분 자리에 옵니다. Ik leer Nederlands. 앞에 Vandaag를 넣으면 Vandaag leer ik Nederlands.가 됩니다. 두 문장에서 leer에 밑줄을 긋고, 주어 ik의 자리를 비교하세요. 여기서 두 번째는 두 번째 단어가 아니라 문장 성분의 자리입니다.",
       "example": "Ik leer Nederlands. / Vandaag leer ik Nederlands."
     },
     {
